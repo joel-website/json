@@ -1,182 +1,143 @@
 [
     {
         "subject": "Ik",
-        "verb": "ging",
-        "complement": "naar de winkel om te kopen.",
-        "infinitive": "gaan"
+        "aux": "zag",
+        "complement": "de hond in het park",
+        "main_verb": "zien",
+        "infinitive": "zien"
     },
     {
         "subject": "Jij",
-        "verb": "maakte",
-        "complement": "de verjaardagstaart voor je vriend.",
-        "infinitive": "maken"
-    },
-    {
-        "subject": "Hij",
-        "verb": "las",
-        "complement": "een interessant boek in de bibliotheek.",
-        "infinitive": "lezen"
-    },
-    {
-        "subject": "Wij",
-        "verb": "speelden",
-        "complement": "een leuk spel in de tuin.",
+        "aux": "speelde",
+        "complement": "met je vrienden gisteren",
+        "main_verb": "spelen",
         "infinitive": "spelen"
     },
     {
-        "subject": "Zij",
-        "verb": "werkte",
-        "complement": "de hele dag hard op haar project.",
+        "subject": "Hij",
+        "aux": "werkte",
+        "complement": "heel hard aan zijn project",
+        "main_verb": "werken",
         "infinitive": "werken"
     },
     {
-        "subject": "Ik",
-        "verb": "at",
-        "complement": "een heerlijke pizza met veel kaas.",
+        "subject": "Wij",
+        "aux": "gingen",
+        "complement": "naar het strand",
+        "main_verb": "gaan",
+        "infinitive": "gaan"
+    },
+    {
+        "subject": "Zij",
+        "aux": "at",
+        "complement": "een heerlijke pizza",
+        "main_verb": "eten",
         "infinitive": "eten"
     },
     {
         "subject": "Jij",
-        "verb": "ging",
-        "complement": "na school naar het park met vrienden.",
-        "infinitive": "gaan"
-    },
-    {
-        "subject": "Hij",
-        "verb": "kocht",
-        "complement": "een nieuw spel voor zijn console.",
-        "infinitive": "kopen"
-    },
-    {
-        "subject": "Wij",
-        "verb": "gaf",
-        "complement": "de presentatie aan het team.",
-        "infinitive": "geven"
-    },
-    {
-        "subject": "Zij",
-        "verb": "zag",
-        "complement": "een mooie film met veel actie.",
-        "infinitive": "zien"
+        "aux": "leefde",
+        "complement": "in Amsterdam",
+        "main_verb": "leven",
+        "infinitive": "leven"
     },
     {
         "subject": "Ik",
-        "verb": "schreef",
-        "complement": "een brief naar mijn grootouders.",
-        "infinitive": "schrijven"
-    },
-    {
-        "subject": "Jij",
-        "verb": "fietste",
-        "complement": "door het dorp met je vrienden.",
-        "infinitive": "fietsen"
+        "aux": "las",
+        "complement": "een interessant boek",
+        "main_verb": "lezen",
+        "infinitive": "lezen"
     },
     {
         "subject": "Hij",
-        "verb": "dronk",
-        "complement": "een koude limonade op het terras.",
-        "infinitive": "drinken"
+        "aux": "gaf",
+        "complement": "een mooi cadeau",
+        "main_verb": "geven",
+        "infinitive": "geven"
     },
     {
         "subject": "Wij",
-        "verb": "zongen",
-        "complement": "een leuk lied tijdens de reis.",
+        "aux": "zongen",
+        "complement": "een leuk lied",
+        "main_verb": "zingen",
         "infinitive": "zingen"
     },
     {
         "subject": "Zij",
-        "verb": "verliep",
-        "complement": "de wedstrijd zonder te verliezen.",
-        "infinitive": "verliezen"
-    },
-    {
-        "subject": "Ik",
-        "verb": "bakte",
-        "complement": "koekjes voor de feestdagen.",
-        "infinitive": "bakken"
+        "aux": "tekenen",
+        "complement": "een prachtig schilderij",
+        "main_verb": "tekenen",
+        "infinitive": "tekenen"
     },
     {
         "subject": "Jij",
-        "verb": "maakte",
-        "complement": "de kamer schoon voor het feest.",
+        "aux": "dronk",
+        "complement": "een glas water",
+        "main_verb": "drinken",
+        "infinitive": "drinken"
+    },
+    {
+        "subject": "Ik",
+        "aux": "schreef",
+        "complement": "een brief aan mijn vriend",
+        "main_verb": "schrijven",
+        "infinitive": "schrijven"
+    },
+    {
+        "subject": "Hij",
+        "aux": "maakte",
+        "complement": "de auto schoon",
+        "main_verb": "maken",
         "infinitive": "maken"
     },
     {
-        "subject": "Hij",
-        "verb": "bezocht",
-        "complement": "zijn vrienden tijdens het weekend.",
-        "infinitive": "bezoeken"
-    },
-    {
         "subject": "Wij",
-        "verb": "zwemden",
-        "complement": "in het zwembad met ons gezin.",
-        "infinitive": "zwemmen"
-    },
-    {
-        "subject": "Zij",
-        "verb": "kregen",
-        "complement": "een leuk cadeau voor hun verjaardag.",
+        "aux": "kregen",
+        "complement": "een uitnodiging voor het feest",
+        "main_verb": "krijgen",
         "infinitive": "krijgen"
     },
     {
+        "subject": "Zij",
+        "aux": "verliezen",
+        "complement": "hun sleutels tijdens het uitgaan",
+        "main_verb": "verliezen",
+        "infinitive": "verliezen"
+    },
+    {
+        "subject": "Jij",
+        "aux": "bouwde",
+        "complement": "een mooie zandkasteel",
+        "main_verb": "bouwen",
+        "infinitive": "bouwen"
+    },
+    {
         "subject": "Ik",
-        "verb": "vond",
-        "complement": "een mooie steen op het strand.",
+        "aux": "zorgde",
+        "complement": "voor mijn zus",
+        "main_verb": "zorgen",
+        "infinitive": "zorgen"
+    },
+    {
+        "subject": "Hij",
+        "aux": "woonde",
+        "complement": "in een klein huis",
+        "main_verb": "wonen",
+        "infinitive": "wonen"
+    },
+    {
+        "subject": "Wij",
+        "aux": "vertelden",
+        "complement": "een grappig verhaal",
+        "main_verb": "vertellen",
+        "infinitive": "vertellen"
+    },
+    {
+        "subject": "Zij",
+        "aux": "vonden",
+        "complement": "het moeilijk om te leren",
+        "main_verb": "vinden",
         "infinitive": "vinden"
     },
     {
-        "subject": "Jij",
-        "verb": "gaf",
-        "complement": "me een hand met de klusjes.",
-        "infinitive": "geven"
-    },
-    {
-        "subject": "Hij",
-        "verb": "stuurde",
-        "complement": "een e-mail naar zijn baas.",
-        "infinitive": "sturen"
-    },
-    {
-        "subject": "Wij",
-        "verb": "liepen",
-        "complement": "langs het strand in de ochtend.",
-        "infinitive": "lopen"
-    },
-    {
-        "subject": "Zij",
-        "verb": "verhuisde",
-        "complement": "naar een groter huis met haar gezin.",
-        "infinitive": "verhuizen"
-    },
-    {
-        "subject": "Ik",
-        "verb": "leerde",
-        "complement": "iets nieuws in de les van gisteren.",
-        "infinitive": "leren"
-    },
-    {
-        "subject": "Jij",
-        "verb": "speelde",
-        "complement": "met je nieuwe speelgoed in de kamer.",
-        "infinitive": "spelen"
-    },
-    {
-        "subject": "Hij",
-        "verb": "danste",
-        "complement": "met zijn vrienden op het feest.",
-        "infinitive": "dansen"
-    },
-    {
-        "subject": "Wij",
-        "verb": "ontmoetten",
-        "complement": "elkaar in het café voor een kopje koffie.",
-        "infinitive": "ontmoeten"
-    },
-    {
-        "subject": "Zij",
-        "verb": "speelden",
-        "complement": "een spannend spel op de computer.",
-        "infinitive": "spelen"
-    }
-]
+        "
