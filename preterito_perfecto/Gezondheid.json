@@ -2,182 +2,182 @@
     {
         "subject": "Ik",
         "aux": "heb",
-        "complement": "met mijn vrienden gekletst",
-        "main_verb": "gehad",
-        "infinitive": "hebben"
+        "complement": "met mijn vrienden",
+        "main_verb": "gekletst",
+        "infinitive": "kletsen"
     },
     {
         "subject": "Jij",
         "aux": "hebt",
-        "complement": "een nieuwe hobby ontdekt",
-        "main_verb": "gevonden",
-        "infinitive": "vinden"
+        "complement": "een nieuwe hobby",
+        "main_verb": "ontdekt",
+        "infinitive": "ontdekken"
     },
     {
         "subject": "Hij",
         "aux": "heeft",
-        "complement": "het probleem opgelost",
+        "complement": "het probleem",
         "main_verb": "opgelost",
         "infinitive": "oplossen"
     },
     {
         "subject": "Zij",
         "aux": "heeft",
-        "complement": "een boek geschreven",
+        "complement": "een boek",
         "main_verb": "geschreven",
         "infinitive": "schrijven"
     },
     {
         "subject": "Wij",
         "aux": "hebben",
-        "complement": "samen een nieuwe strategie ontwikkeld",
+        "complement": "samen een nieuwe strategie",
         "main_verb": "ontwikkeld",
         "infinitive": "ontwikkelen"
     },
     {
         "subject": "Jullie",
         "aux": "hebben",
-        "complement": "een prachtig huis gebouwd",
+        "complement": "een prachtig huis",
         "main_verb": "gebouwd",
         "infinitive": "bouwen"
     },
     {
         "subject": "Zij",
         "aux": "heeft",
-        "complement": "een interessante film gezien",
+        "complement": "een interessante film",
         "main_verb": "gezien",
         "infinitive": "zien"
     },
     {
         "subject": "Ik",
         "aux": "heb",
-        "complement": "de presentaties voorbereid",
+        "complement": "de presentaties",
         "main_verb": "voorbereid",
         "infinitive": "voorbereiden"
     },
     {
         "subject": "Hij",
         "aux": "heeft",
-        "complement": "een spel gespeeld met zijn vrienden",
+        "complement": "een spel met zijn vrienden",
         "main_verb": "gespeeld",
         "infinitive": "spelen"
     },
     {
         "subject": "Wij",
         "aux": "hebben",
-        "complement": "de nieuwe plannen besproken",
+        "complement": "de nieuwe plannen",
         "main_verb": "besproken",
         "infinitive": "bespreken"
     },
     {
         "subject": "Zij",
         "aux": "heeft",
-        "complement": "haar plan aangepast",
+        "complement": "haar plan",
         "main_verb": "aangepast",
         "infinitive": "aanpassen"
     },
     {
         "subject": "Jij",
         "aux": "hebt",
-        "complement": "de vraag beantwoord",
+        "complement": "de vraag",
         "main_verb": "beantwoord",
         "infinitive": "beantwoorden"
     },
     {
         "subject": "Hij",
         "aux": "heeft",
-        "complement": "zijn vrienden uitgenodigd",
+        "complement": "zijn vrienden",
         "main_verb": "uitgenodigd",
         "infinitive": "uitnodigen"
     },
     {
         "subject": "Wij",
         "aux": "hebben",
-        "complement": "de nieuwe technologie uitgeprobeerd",
+        "complement": "de nieuwe technologie",
         "main_verb": "uitgeprobeerd",
         "infinitive": "uitproberen"
     },
     {
         "subject": "Zij",
         "aux": "heeft",
-        "complement": "een cadeau gekocht",
+        "complement": "een cadeau",
         "main_verb": "gekocht",
         "infinitive": "kopen"
     },
     {
         "subject": "Ik",
         "aux": "heb",
-        "complement": "het nieuws gehoord",
+        "complement": "het nieuws",
         "main_verb": "gehoord",
         "infinitive": "horen"
     },
     {
         "subject": "Jij",
         "aux": "hebt",
-        "complement": "de uitdaging aangaan",
+        "complement": "de uitdaging",
         "main_verb": "aangegaan",
         "infinitive": "aangaan"
     },
     {
         "subject": "Hij",
         "aux": "heeft",
-        "complement": "de details van de afspraak geregeld",
+        "complement": "de details van de afspraak",
         "main_verb": "geregeld",
         "infinitive": "regelen"
     },
     {
         "subject": "Zij",
         "aux": "heeft",
-        "complement": "met de klant gesproken",
+        "complement": "met de klant",
         "main_verb": "gesproken",
         "infinitive": "spreken"
     },
     {
         "subject": "Wij",
         "aux": "hebben",
-        "complement": "de samenwerking versterkt",
+        "complement": "de samenwerking",
         "main_verb": "versterkt",
         "infinitive": "versterken"
     },
     {
         "subject": "Jullie",
         "aux": "hebben",
-        "complement": "een interessante discussie gevoerd",
+        "complement": "een interessante discussie",
         "main_verb": "gevoerd",
         "infinitive": "voeren"
     },
     {
         "subject": "Ik",
         "aux": "heb",
-        "complement": "de rapporten geanalyseerd",
+        "complement": "de rapporten",
         "main_verb": "geanalyseerd",
         "infinitive": "analyseren"
     },
     {
         "subject": "Hij",
         "aux": "heeft",
-        "complement": "zijn talenten ontwikkeld",
+        "complement": "zijn talenten",
         "main_verb": "ontwikkeld",
         "infinitive": "ontwikkelen"
     },
     {
         "subject": "Zij",
         "aux": "heeft",
-        "complement": "een grote indruk gemaakt",
+        "complement": "een grote indruk",
         "main_verb": "gemaakt",
         "infinitive": "maken"
     },
     {
         "subject": "Wij",
         "aux": "hebben",
-        "complement": "de kinderen geholpen",
+        "complement": "de kinderen",
         "main_verb": "geholpen",
         "infinitive": "helpen"
     },
     {
         "subject": "Jij",
         "aux": "hebt",
-        "complement": "de instructies gevolgd",
+        "complement": "de instructies",
         "main_verb": "gevolgd",
         "infinitive": "volgen"
     }
