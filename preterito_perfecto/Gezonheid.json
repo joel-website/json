@@ -1,0 +1,184 @@
+[
+    {
+        "subject": "Ik",
+        "aux": "heb",
+        "complement": "met mijn vrienden gekletst",
+        "main_verb": "gehad",
+        "infinitive": "hebben"
+    },
+    {
+        "subject": "Jij",
+        "aux": "hebt",
+        "complement": "een nieuwe hobby ontdekt",
+        "main_verb": "gevonden",
+        "infinitive": "vinden"
+    },
+    {
+        "subject": "Hij",
+        "aux": "heeft",
+        "complement": "het probleem opgelost",
+        "main_verb": "opgelost",
+        "infinitive": "oplossen"
+    },
+    {
+        "subject": "Zij",
+        "aux": "heeft",
+        "complement": "een boek geschreven",
+        "main_verb": "geschreven",
+        "infinitive": "schrijven"
+    },
+    {
+        "subject": "Wij",
+        "aux": "hebben",
+        "complement": "samen een nieuwe strategie ontwikkeld",
+        "main_verb": "ontwikkeld",
+        "infinitive": "ontwikkelen"
+    },
+    {
+        "subject": "Jullie",
+        "aux": "hebben",
+        "complement": "een prachtig huis gebouwd",
+        "main_verb": "gebouwd",
+        "infinitive": "bouwen"
+    },
+    {
+        "subject": "Zij",
+        "aux": "heeft",
+        "complement": "een interessante film gezien",
+        "main_verb": "gezien",
+        "infinitive": "zien"
+    },
+    {
+        "subject": "Ik",
+        "aux": "heb",
+        "complement": "de presentaties voorbereid",
+        "main_verb": "voorbereid",
+        "infinitive": "voorbereiden"
+    },
+    {
+        "subject": "Hij",
+        "aux": "heeft",
+        "complement": "een spel gespeeld met zijn vrienden",
+        "main_verb": "gespeeld",
+        "infinitive": "spelen"
+    },
+    {
+        "subject": "Wij",
+        "aux": "hebben",
+        "complement": "de nieuwe plannen besproken",
+        "main_verb": "besproken",
+        "infinitive": "bespreken"
+    },
+    {
+        "subject": "Zij",
+        "aux": "heeft",
+        "complement": "haar plan aangepast",
+        "main_verb": "aangepast",
+        "infinitive": "aanpassen"
+    },
+    {
+        "subject": "Jij",
+        "aux": "hebt",
+        "complement": "de vraag beantwoord",
+        "main_verb": "beantwoord",
+        "infinitive": "beantwoorden"
+    },
+    {
+        "subject": "Hij",
+        "aux": "heeft",
+        "complement": "zijn vrienden uitgenodigd",
+        "main_verb": "uitgenodigd",
+        "infinitive": "uitnodigen"
+    },
+    {
+        "subject": "Wij",
+        "aux": "hebben",
+        "complement": "de nieuwe technologie uitgeprobeerd",
+        "main_verb": "uitgeprobeerd",
+        "infinitive": "uitproberen"
+    },
+    {
+        "subject": "Zij",
+        "aux": "heeft",
+        "complement": "een cadeau gekocht",
+        "main_verb": "gekocht",
+        "infinitive": "kopen"
+    },
+    {
+        "subject": "Ik",
+        "aux": "heb",
+        "complement": "het nieuws gehoord",
+        "main_verb": "gehoord",
+        "infinitive": "horen"
+    },
+    {
+        "subject": "Jij",
+        "aux": "hebt",
+        "complement": "de uitdaging aangaan",
+        "main_verb": "aangegaan",
+        "infinitive": "aangaan"
+    },
+    {
+        "subject": "Hij",
+        "aux": "heeft",
+        "complement": "de details van de afspraak geregeld",
+        "main_verb": "geregeld",
+        "infinitive": "regelen"
+    },
+    {
+        "subject": "Zij",
+        "aux": "heeft",
+        "complement": "met de klant gesproken",
+        "main_verb": "gesproken",
+        "infinitive": "spreken"
+    },
+    {
+        "subject": "Wij",
+        "aux": "hebben",
+        "complement": "de samenwerking versterkt",
+        "main_verb": "versterkt",
+        "infinitive": "versterken"
+    },
+    {
+        "subject": "Jullie",
+        "aux": "hebben",
+        "complement": "een interessante discussie gevoerd",
+        "main_verb": "gevoerd",
+        "infinitive": "voeren"
+    },
+    {
+        "subject": "Ik",
+        "aux": "heb",
+        "complement": "de rapporten geanalyseerd",
+        "main_verb": "geanalyseerd",
+        "infinitive": "analyseren"
+    },
+    {
+        "subject": "Hij",
+        "aux": "heeft",
+        "complement": "zijn talenten ontwikkeld",
+        "main_verb": "ontwikkeld",
+        "infinitive": "ontwikkelen"
+    },
+    {
+        "subject": "Zij",
+        "aux": "heeft",
+        "complement": "een grote indruk gemaakt",
+        "main_verb": "gemaakt",
+        "infinitive": "maken"
+    },
+    {
+        "subject": "Wij",
+        "aux": "hebben",
+        "complement": "de kinderen geholpen",
+        "main_verb": "geholpen",
+        "infinitive": "helpen"
+    },
+    {
+        "subject": "Jij",
+        "aux": "hebt",
+        "complement": "de instructies gevolgd",
+        "main_verb": "gevolgd",
+        "infinitive": "volgen"
+    }
+]
