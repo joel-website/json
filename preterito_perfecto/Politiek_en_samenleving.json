@@ -1,0 +1,177 @@
+[
+    {
+        "subject": "Ik",
+        "aux": "heb",
+        "complement": "de verkiezingen",
+        "main_verb": "gevolgd",
+        "infinitive": "volgen"
+    },
+    {
+        "subject": "Jij",
+        "aux": "hebt",
+        "complement": "de politieke situatie",
+        "main_verb": "geanalyseerd",
+        "infinitive": "analyseren"
+    },
+    {
+        "subject": "Hij",
+        "aux": "heeft",
+        "complement": "de stemprocedure",
+        "main_verb": "begrepen",
+        "infinitive": "begrijpen"
+    },
+    {
+        "subject": "Zij",
+        "aux": "heeft",
+        "complement": "over sociale kwesties",
+        "main_verb": "gesproken",
+        "infinitive": "spreken"
+    },
+    {
+        "subject": "Wij",
+        "aux": "hebben",
+        "complement": "de wetten",
+        "main_verb": "gewijzigd",
+        "infinitive": "wijzigen"
+    },
+    {
+        "subject": "Jullie",
+        "aux": "hebben",
+        "complement": "de debatten",
+        "main_verb": "gevolgd",
+        "infinitive": "volgen"
+    },
+    {
+        "subject": "Zij",
+        "aux": "hebben",
+        "complement": "de samenleving",
+        "main_verb": "verbeterd",
+        "infinitive": "verbeteren"
+    },
+    {
+        "subject": "Ik",
+        "aux": "heb",
+        "complement": "de kandidaten",
+        "main_verb": "gepresenteerd",
+        "infinitive": "presenteren"
+    },
+    {
+        "subject": "Jij",
+        "aux": "hebt",
+        "complement": "de stemlijst",
+        "main_verb": "gemaakt",
+        "infinitive": "maken"
+    },
+    {
+        "subject": "Hij",
+        "aux": "heeft",
+        "complement": "de verkiezingsuitslag",
+        "main_verb": "bekendgemaakt",
+        "infinitive": "bekendmaken"
+    },
+    {
+        "subject": "Zij",
+        "aux": "heeft",
+        "complement": "de veranderingen",
+        "main_verb": "uitgelegd",
+        "infinitive": "uitleggen"
+    },
+    {
+        "subject": "Wij",
+        "aux": "hebben",
+        "complement": "de problemen",
+        "main_verb": "besproken",
+        "infinitive": "bespreken"
+    },
+    {
+        "subject": "Jullie",
+        "aux": "hebben",
+        "complement": "de situatie",
+        "main_verb": "geëvalueerd",
+        "infinitive": "evalueren"
+    },
+    {
+        "subject": "Zij",
+        "aux": "hebben",
+        "complement": "de plannen",
+        "main_verb": "goedgekeurd",
+        "infinitive": "goedkeuren"
+    },
+    {
+        "subject": "Ik",
+        "aux": "heb",
+        "complement": "de discussie",
+        "main_verb": "gevolgd",
+        "infinitive": "volgen"
+    },
+    {
+        "subject": "Jij",
+        "aux": "hebt",
+        "complement": "de conferentie",
+        "main_verb": "bijgewoond",
+        "infinitive": "bijwonen"
+    },
+    {
+        "subject": "Hij",
+        "aux": "heeft",
+        "complement": "de voorstellen",
+        "main_verb": "ingediend",
+        "infinitive": "indienen"
+    },
+    {
+        "subject": "Zij",
+        "aux": "heeft",
+        "complement": "de gevolgen",
+        "main_verb": "onderzocht",
+        "infinitive": "onderzoeken"
+    },
+    {
+        "subject": "Wij",
+        "aux": "hebben",
+        "complement": "de nieuwe wet",
+        "main_verb": "aangenomen",
+        "infinitive": "aannemen"
+    },
+    {
+        "subject": "Jullie",
+        "aux": "hebben",
+        "complement": "de politiek",
+        "main_verb": "bestudeerd",
+        "infinitive": "bestuderen"
+    },
+    {
+        "subject": "Zij",
+        "aux": "hebben",
+        "complement": "de publicatie",
+        "main_verb": "uitgegeven",
+        "infinitive": "uitgeven"
+    },
+    {
+        "subject": "Ik",
+        "aux": "heb",
+        "complement": "de burgerrechten",
+        "main_verb": "gepromoot",
+        "infinitive": "promoten"
+    },
+    {
+        "subject": "Jij",
+        "aux": "hebt",
+        "complement": "de protesten",
+        "main_verb": "georganiseerd",
+        "infinitive": "organiseren"
+    },
+    {
+        "subject": "Hij",
+        "aux": "heeft",
+        "complement": "de verkiezingscampagne",
+        "main_verb": "ondersteund",
+        "infinitive": "ondersteunen"
+    },
+    {
+        "subject": "Zij",
+        "aux": "heeft",
+        "complement": "de sociale programma's",
+        "main_verb": "gestart",
+        "infinitive": "starten"
+    }
+]

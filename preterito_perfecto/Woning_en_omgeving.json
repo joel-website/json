@@ -1,0 +1,212 @@
+[
+    {
+        "subject": "Ik",
+        "aux": "heb",
+        "complement": "mijn oude appartement",
+        "main_verb": "verhuisd",
+        "infinitive": "verhuizen"
+    },
+    {
+        "subject": "Jij",
+        "aux": "hebt",
+        "complement": "het nieuwe huis",
+        "main_verb": "ingericht",
+        "infinitive": "inrichten"
+    },
+    {
+        "subject": "Hij",
+        "aux": "heeft",
+        "complement": "de ramen",
+        "main_verb": "schoongemaakt",
+        "infinitive": "schoonmaken"
+    },
+    {
+        "subject": "Zij",
+        "aux": "heeft",
+        "complement": "een tuin",
+        "main_verb": "aangelegd",
+        "infinitive": "aanleggen"
+    },
+    {
+        "subject": "Wij",
+        "aux": "hebben",
+        "complement": "de muren",
+        "main_verb": "geschilderd",
+        "infinitive": "schilderen"
+    },
+    {
+        "subject": "Jullie",
+        "aux": "hebben",
+        "complement": "een nieuwe bank",
+        "main_verb": "gekocht",
+        "infinitive": "kopen"
+    },
+    {
+        "subject": "Zij",
+        "aux": "hebben",
+        "complement": "een gezellige buurt",
+        "main_verb": "gevonden",
+        "infinitive": "vinden"
+    },
+    {
+        "subject": "Ik",
+        "aux": "heb",
+        "complement": "de huur",
+        "main_verb": "betaald",
+        "infinitive": "betalen"
+    },
+    {
+        "subject": "Jij",
+        "aux": "hebt",
+        "complement": "de vuilnisbak",
+        "main_verb": "leeggemaakt",
+        "infinitive": "leegmaken"
+    },
+    {
+        "subject": "Hij",
+        "aux": "heeft",
+        "complement": "een rustige wijk",
+        "main_verb": "gekozen",
+        "infinitive": "kiezen"
+    },
+    {
+        "subject": "Zij",
+        "aux": "heeft",
+        "complement": "de keuken",
+        "main_verb": "opgeruimd",
+        "infinitive": "opruimen"
+    },
+    {
+        "subject": "Wij",
+        "aux": "hebben",
+        "complement": "de badkamer",
+        "main_verb": "verbouwd",
+        "infinitive": "verbouwen"
+    },
+    {
+        "subject": "Jullie",
+        "aux": "hebben",
+        "complement": "een nieuwe vloer",
+        "main_verb": "gelegd",
+        "infinitive": "leggen"
+    },
+    {
+        "subject": "Zij",
+        "aux": "hebben",
+        "complement": "met de buren",
+        "main_verb": "gepraat",
+        "infinitive": "praten"
+    },
+    {
+        "subject": "Ik",
+        "aux": "heb",
+        "complement": "de woonkamer",
+        "main_verb": "gedecoreerd",
+        "infinitive": "decoreren"
+    },
+    {
+        "subject": "Jij",
+        "aux": "hebt",
+        "complement": "de muren",
+        "main_verb": "gestuukt",
+        "infinitive": "stuccen"
+    },
+    {
+        "subject": "Hij",
+        "aux": "heeft",
+        "complement": "de tuin",
+        "main_verb": "gesnoeid",
+        "infinitive": "snoeien"
+    },
+    {
+        "subject": "Zij",
+        "aux": "heeft",
+        "complement": "een nieuwe kast",
+        "main_verb": "besteld",
+        "infinitive": "bestellen"
+    },
+    {
+        "subject": "Wij",
+        "aux": "hebben",
+        "complement": "de was",
+        "main_verb": "gedaan",
+        "infinitive": "doen"
+    },
+    {
+        "subject": "Jullie",
+        "aux": "hebben",
+        "complement": "de slaapkamer",
+        "main_verb": "ingericht",
+        "infinitive": "inrichten"
+    },
+    {
+        "subject": "Zij",
+        "aux": "hebben",
+        "complement": "de tuinmeubelen",
+        "main_verb": "gekocht",
+        "infinitive": "kopen"
+    },
+    {
+        "subject": "Ik",
+        "aux": "heb",
+        "complement": "de trap",
+        "main_verb": "geveegd",
+        "infinitive": "vegen"
+    },
+    {
+        "subject": "Jij",
+        "aux": "hebt",
+        "complement": "de garagedeur",
+        "main_verb": "gerepareerd",
+        "infinitive": "repareren"
+    },
+    {
+        "subject": "Hij",
+        "aux": "heeft",
+        "complement": "het huis",
+        "main_verb": "verkocht",
+        "infinitive": "verkopen"
+    },
+    {
+        "subject": "Zij",
+        "aux": "heeft",
+        "complement": "de nieuwe woning",
+        "main_verb": "gehuurd",
+        "infinitive": "huren"
+    },
+    {
+        "subject": "Wij",
+        "aux": "hebben",
+        "complement": "het dak",
+        "main_verb": "gereinigd",
+        "infinitive": "reinigen"
+    },
+    {
+        "subject": "Jullie",
+        "aux": "hebben",
+        "complement": "de buren",
+        "main_verb": "uitgenodigd",
+        "infinitive": "uitnodigen"
+    },
+    {
+        "subject": "Zij",
+        "aux": "hebben",
+        "complement": "een nieuwe woning",
+        "main_verb": "gevonden",
+        "infinitive": "vinden"
+    },
+    {
+        "subject": "Ik",
+        "aux": "heb",
+        "complement": "de woonkamer opnieuw",
+        "main_verb": "geschilderd",
+        "infinitive": "schilderen"
+    },
+    {
+        "subject": "Jij",
+        "aux": "hebt",
+        "complement": "het hek om de tuin",
+        "main_verb": "gerepareerd",
+        "infinitive": "repareren"
+    }
+]

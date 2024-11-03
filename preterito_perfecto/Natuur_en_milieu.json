@@ -1,0 +1,212 @@
+[
+    {
+        "subject": "Ik",
+        "aux": "heb",
+        "complement": "de bomen in het park",
+        "main_verb": "geplant",
+        "infinitive": "planten"
+    },
+    {
+        "subject": "Jij",
+        "aux": "hebt",
+        "complement": "de afvalbakken",
+        "main_verb": "geleegd",
+        "infinitive": "legen"
+    },
+    {
+        "subject": "Hij",
+        "aux": "heeft",
+        "complement": "water voor de planten",
+        "main_verb": "gebruikt",
+        "infinitive": "gebruiken"
+    },
+    {
+        "subject": "Zij",
+        "aux": "heeft",
+        "complement": "de bloemen in de tuin",
+        "main_verb": "geplant",
+        "infinitive": "planten"
+    },
+    {
+        "subject": "Wij",
+        "aux": "hebben",
+        "complement": "plastic in de zee",
+        "main_verb": "verwijderd",
+        "infinitive": "verwijderen"
+    },
+    {
+        "subject": "Jullie",
+        "aux": "hebben",
+        "complement": "de energiezuinige lampen",
+        "main_verb": "gekozen",
+        "infinitive": "kiezen"
+    },
+    {
+        "subject": "Zij",
+        "aux": "hebben",
+        "complement": "het afval gescheiden",
+        "main_verb": "gescheiden",
+        "infinitive": "scheiden"
+    },
+    {
+        "subject": "Ik",
+        "aux": "heb",
+        "complement": "de natuur in het bos",
+        "main_verb": "bewonderd",
+        "infinitive": "bewonderen"
+    },
+    {
+        "subject": "Jij",
+        "aux": "hebt",
+        "complement": "een duurzame oplossing",
+        "main_verb": "gevonden",
+        "infinitive": "vinden"
+    },
+    {
+        "subject": "Hij",
+        "aux": "heeft",
+        "complement": "de luchtvervuiling",
+        "main_verb": "gemeten",
+        "infinitive": "meten"
+    },
+    {
+        "subject": "Zij",
+        "aux": "heeft",
+        "complement": "voor het milieu",
+        "main_verb": "gezorgd",
+        "infinitive": "zorgen"
+    },
+    {
+        "subject": "Wij",
+        "aux": "hebben",
+        "complement": "bomen geplant",
+        "main_verb": "geplant",
+        "infinitive": "planten"
+    },
+    {
+        "subject": "Jullie",
+        "aux": "hebben",
+        "complement": "een actie voor het milieu",
+        "main_verb": "georganiseerd",
+        "infinitive": "organiseren"
+    },
+    {
+        "subject": "Zij",
+        "aux": "hebben",
+        "complement": "de energiebronnen",
+        "main_verb": "bespaard",
+        "infinitive": "besparen"
+    },
+    {
+        "subject": "Ik",
+        "aux": "heb",
+        "complement": "mijn afval",
+        "main_verb": "gescheiden",
+        "infinitive": "scheiden"
+    },
+    {
+        "subject": "Jij",
+        "aux": "hebt",
+        "complement": "de uitstoot van CO2",
+        "main_verb": "verminderd",
+        "infinitive": "verminderen"
+    },
+    {
+        "subject": "Hij",
+        "aux": "heeft",
+        "complement": "zonnepanelen op zijn dak",
+        "main_verb": "geplaatst",
+        "infinitive": "plaatsen"
+    },
+    {
+        "subject": "Zij",
+        "aux": "heeft",
+        "complement": "de recycling",
+        "main_verb": "verbeterd",
+        "infinitive": "verbeteren"
+    },
+    {
+        "subject": "Wij",
+        "aux": "hebben",
+        "complement": "de bossen",
+        "main_verb": "beschermd",
+        "infinitive": "beschermen"
+    },
+    {
+        "subject": "Jullie",
+        "aux": "hebben",
+        "complement": "de stad",
+        "main_verb": "opgeruimd",
+        "infinitive": "opruimen"
+    },
+    {
+        "subject": "Zij",
+        "aux": "hebben",
+        "complement": "minder plastic",
+        "main_verb": "gebruikt",
+        "infinitive": "gebruiken"
+    },
+    {
+        "subject": "Ik",
+        "aux": "heb",
+        "complement": "energie bespaard",
+        "main_verb": "bespaard",
+        "infinitive": "besparen"
+    },
+    {
+        "subject": "Jij",
+        "aux": "hebt",
+        "complement": "de omgeving",
+        "main_verb": "beschermd",
+        "infinitive": "beschermen"
+    },
+    {
+        "subject": "Hij",
+        "aux": "heeft",
+        "complement": "zijn watergebruik",
+        "main_verb": "verminderd",
+        "infinitive": "verminderen"
+    },
+    {
+        "subject": "Zij",
+        "aux": "heeft",
+        "complement": "het afval in de zee",
+        "main_verb": "opgeruimd",
+        "infinitive": "opruimen"
+    },
+    {
+        "subject": "Wij",
+        "aux": "hebben",
+        "complement": "biologische producten",
+        "main_verb": "gekocht",
+        "infinitive": "kopen"
+    },
+    {
+        "subject": "Jullie",
+        "aux": "hebben",
+        "complement": "de natuur",
+        "main_verb": "gerespecteerd",
+        "infinitive": "respecteren"
+    },
+    {
+        "subject": "Zij",
+        "aux": "hebben",
+        "complement": "de vervuiling",
+        "main_verb": "bestreden",
+        "infinitive": "bestrijden"
+    },
+    {
+        "subject": "Ik",
+        "aux": "heb",
+        "complement": "minder water",
+        "main_verb": "gebruikt",
+        "infinitive": "gebruiken"
+    },
+    {
+        "subject": "Jij",
+        "aux": "hebt",
+        "complement": "een composthoop",
+        "main_verb": "gemaakt",
+        "infinitive": "maken"
+    }
+]

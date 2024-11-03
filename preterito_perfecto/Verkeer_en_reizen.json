@@ -1,0 +1,212 @@
+[
+    {
+        "subject": "Ik",
+        "aux": "heb",
+        "complement": "de trein",
+        "main_verb": "genomen",
+        "infinitive": "nemen"
+    },
+    {
+        "subject": "Jij",
+        "aux": "hebt",
+        "complement": "een ticket",
+        "main_verb": "gekocht",
+        "infinitive": "kopen"
+    },
+    {
+        "subject": "Hij",
+        "aux": "heeft",
+        "complement": "de auto",
+        "main_verb": "geparkeerd",
+        "infinitive": "parkeren"
+    },
+    {
+        "subject": "Zij",
+        "aux": "heeft",
+        "complement": "de bus",
+        "main_verb": "gepakt",
+        "infinitive": "pakken"
+    },
+    {
+        "subject": "Wij",
+        "aux": "hebben",
+        "complement": "de vlucht",
+        "main_verb": "geboekt",
+        "infinitive": "boeken"
+    },
+    {
+        "subject": "Jullie",
+        "aux": "hebben",
+        "complement": "op het vliegtuig",
+        "main_verb": "gewacht",
+        "infinitive": "wachten"
+    },
+    {
+        "subject": "Zij",
+        "aux": "hebben",
+        "complement": "de route",
+        "main_verb": "gepland",
+        "infinitive": "plannen"
+    },
+    {
+        "subject": "Ik",
+        "aux": "heb",
+        "complement": "mijn paspoort",
+        "main_verb": "vergeten",
+        "infinitive": "vergeten"
+    },
+    {
+        "subject": "Jij",
+        "aux": "hebt",
+        "complement": "een hotelkamer",
+        "main_verb": "gereserveerd",
+        "infinitive": "reserveren"
+    },
+    {
+        "subject": "Hij",
+        "aux": "heeft",
+        "complement": "de auto",
+        "main_verb": "gehuurd",
+        "infinitive": "huren"
+    },
+    {
+        "subject": "Zij",
+        "aux": "heeft",
+        "complement": "de kaart",
+        "main_verb": "bekeken",
+        "infinitive": "bekijken"
+    },
+    {
+        "subject": "Wij",
+        "aux": "hebben",
+        "complement": "naar de taxi",
+        "main_verb": "gebeld",
+        "infinitive": "bellen"
+    },
+    {
+        "subject": "Jullie",
+        "aux": "hebben",
+        "complement": "in de file",
+        "main_verb": "gestaan",
+        "infinitive": "staan"
+    },
+    {
+        "subject": "Zij",
+        "aux": "hebben",
+        "complement": "de fiets",
+        "main_verb": "gerepareerd",
+        "infinitive": "repareren"
+    },
+    {
+        "subject": "Ik",
+        "aux": "heb",
+        "complement": "de boot",
+        "main_verb": "genomen",
+        "infinitive": "nemen"
+    },
+    {
+        "subject": "Jij",
+        "aux": "hebt",
+        "complement": "een kaartje",
+        "main_verb": "gekocht",
+        "infinitive": "kopen"
+    },
+    {
+        "subject": "Hij",
+        "aux": "heeft",
+        "complement": "de tol",
+        "main_verb": "betaald",
+        "infinitive": "betalen"
+    },
+    {
+        "subject": "Zij",
+        "aux": "heeft",
+        "complement": "de bestemming",
+        "main_verb": "bereikt",
+        "infinitive": "bereiken"
+    },
+    {
+        "subject": "Wij",
+        "aux": "hebben",
+        "complement": "de koffers",
+        "main_verb": "ingepakt",
+        "infinitive": "inpakken"
+    },
+    {
+        "subject": "Jullie",
+        "aux": "hebben",
+        "complement": "op tijd",
+        "main_verb": "vertrokken",
+        "infinitive": "vertrekken"
+    },
+    {
+        "subject": "Zij",
+        "aux": "hebben",
+        "complement": "de reis",
+        "main_verb": "gepland",
+        "infinitive": "plannen"
+    },
+    {
+        "subject": "Ik",
+        "aux": "heb",
+        "complement": "de snelweg",
+        "main_verb": "genomen",
+        "infinitive": "nemen"
+    },
+    {
+        "subject": "Jij",
+        "aux": "hebt",
+        "complement": "de stad",
+        "main_verb": "bezocht",
+        "infinitive": "bezoeken"
+    },
+    {
+        "subject": "Hij",
+        "aux": "heeft",
+        "complement": "de trein",
+        "main_verb": "gemist",
+        "infinitive": "missen"
+    },
+    {
+        "subject": "Zij",
+        "aux": "heeft",
+        "complement": "een kaart",
+        "main_verb": "gekocht",
+        "infinitive": "kopen"
+    },
+    {
+        "subject": "Wij",
+        "aux": "hebben",
+        "complement": "in een hostel",
+        "main_verb": "geslapen",
+        "infinitive": "slapen"
+    },
+    {
+        "subject": "Jullie",
+        "aux": "hebben",
+        "complement": "het station",
+        "main_verb": "gezocht",
+        "infinitive": "zoeken"
+    },
+    {
+        "subject": "Zij",
+        "aux": "hebben",
+        "complement": "de bus",
+        "main_verb": "gemist",
+        "infinitive": "missen"
+    },
+    {
+        "subject": "Ik",
+        "aux": "heb",
+        "complement": "de snelweg",
+        "main_verb": "vermeden",
+        "infinitive": "vermijden"
+    },
+    {
+        "subject": "Jij",
+        "aux": "hebt",
+        "complement": "de juiste richting",
+        "main_verb": "gevraagd",
+        "infinitive": "vragen"
+    }
+]

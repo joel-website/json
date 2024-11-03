@@ -1,0 +1,212 @@
+[
+    {
+        "subject": "Ik",
+        "aux": "heb",
+        "complement": "een examen",
+        "main_verb": "gemaakt",
+        "infinitive": "maken"
+    },
+    {
+        "subject": "Jij",
+        "aux": "hebt",
+        "complement": "veel notities",
+        "main_verb": "geschreven",
+        "infinitive": "schrijven"
+    },
+    {
+        "subject": "Hij",
+        "aux": "heeft",
+        "complement": "een diploma",
+        "main_verb": "behaald",
+        "infinitive": "behalen"
+    },
+    {
+        "subject": "Zij",
+        "aux": "heeft",
+        "complement": "haar huiswerk",
+        "main_verb": "afgemaakt",
+        "infinitive": "afmaken"
+    },
+    {
+        "subject": "Wij",
+        "aux": "hebben",
+        "complement": "een presentatie",
+        "main_verb": "gegeven",
+        "infinitive": "geven"
+    },
+    {
+        "subject": "Jullie",
+        "aux": "hebben",
+        "complement": "veel boeken",
+        "main_verb": "gelezen",
+        "infinitive": "lezen"
+    },
+    {
+        "subject": "Zij",
+        "aux": "hebben",
+        "complement": "een nieuwe taal",
+        "main_verb": "geleerd",
+        "infinitive": "leren"
+    },
+    {
+        "subject": "Ik",
+        "aux": "heb",
+        "complement": "voor het tentamen",
+        "main_verb": "gestudeerd",
+        "infinitive": "studeren"
+    },
+    {
+        "subject": "Jij",
+        "aux": "hebt",
+        "complement": "een cursus",
+        "main_verb": "voltooid",
+        "infinitive": "voltooien"
+    },
+    {
+        "subject": "Hij",
+        "aux": "heeft",
+        "complement": "een scriptie",
+        "main_verb": "geschreven",
+        "infinitive": "schrijven"
+    },
+    {
+        "subject": "Zij",
+        "aux": "heeft",
+        "complement": "alle lessen",
+        "main_verb": "gevolgd",
+        "infinitive": "volgen"
+    },
+    {
+        "subject": "Wij",
+        "aux": "hebben",
+        "complement": "de toets",
+        "main_verb": "gehaald",
+        "infinitive": "halen"
+    },
+    {
+        "subject": "Jullie",
+        "aux": "hebben",
+        "complement": "een practicum",
+        "main_verb": "gevolgd",
+        "infinitive": "volgen"
+    },
+    {
+        "subject": "Zij",
+        "aux": "hebben",
+        "complement": "veel vragen",
+        "main_verb": "gesteld",
+        "infinitive": "stellen"
+    },
+    {
+        "subject": "Ik",
+        "aux": "heb",
+        "complement": "een samenvatting",
+        "main_verb": "gemaakt",
+        "infinitive": "maken"
+    },
+    {
+        "subject": "Jij",
+        "aux": "hebt",
+        "complement": "aan de discussiegroep",
+        "main_verb": "deelgenomen",
+        "infinitive": "deelnemen"
+    },
+    {
+        "subject": "Hij",
+        "aux": "heeft",
+        "complement": "het lesmateriaal",
+        "main_verb": "bestudeerd",
+        "infinitive": "bestuderen"
+    },
+    {
+        "subject": "Zij",
+        "aux": "heeft",
+        "complement": "een stage",
+        "main_verb": "gelopen",
+        "infinitive": "lopen"
+    },
+    {
+        "subject": "Wij",
+        "aux": "hebben",
+        "complement": "een werkstuk",
+        "main_verb": "gepresenteerd",
+        "infinitive": "presenteren"
+    },
+    {
+        "subject": "Jullie",
+        "aux": "hebben",
+        "complement": "de lesstof",
+        "main_verb": "begrepen",
+        "infinitive": "begrijpen"
+    },
+    {
+        "subject": "Zij",
+        "aux": "hebben",
+        "complement": "een project",
+        "main_verb": "uitgevoerd",
+        "infinitive": "uitvoeren"
+    },
+    {
+        "subject": "Ik",
+        "aux": "heb",
+        "complement": "de hoofdstukken",
+        "main_verb": "gelezen",
+        "infinitive": "lezen"
+    },
+    {
+        "subject": "Jij",
+        "aux": "hebt",
+        "complement": "de antwoorden",
+        "main_verb": "gecontroleerd",
+        "infinitive": "controleren"
+    },
+    {
+        "subject": "Hij",
+        "aux": "heeft",
+        "complement": "een certificaat",
+        "main_verb": "ontvangen",
+        "infinitive": "ontvangen"
+    },
+    {
+        "subject": "Zij",
+        "aux": "heeft",
+        "complement": "veel oefenopdrachten",
+        "main_verb": "gemaakt",
+        "infinitive": "maken"
+    },
+    {
+        "subject": "Wij",
+        "aux": "hebben",
+        "complement": "voor de toets",
+        "main_verb": "geoefend",
+        "infinitive": "oefenen"
+    },
+    {
+        "subject": "Jullie",
+        "aux": "hebben",
+        "complement": "de lesboeken",
+        "main_verb": "gekocht",
+        "infinitive": "kopen"
+    },
+    {
+        "subject": "Zij",
+        "aux": "hebben",
+        "complement": "de groepsopdracht",
+        "main_verb": "ingeleverd",
+        "infinitive": "inleveren"
+    },
+    {
+        "subject": "Ik",
+        "aux": "heb",
+        "complement": "een proefwerk",
+        "main_verb": "gehaald",
+        "infinitive": "halen"
+    },
+    {
+        "subject": "Jij",
+        "aux": "hebt",
+        "complement": "het huiswerk",
+        "main_verb": "nagekeken",
+        "infinitive": "nakijken"
+    }
+]

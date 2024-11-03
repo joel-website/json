@@ -1,0 +1,156 @@
+[
+    {
+        "subject": "Ik",
+        "aux": "heb",
+        "complement": "de uitvinding",
+        "main_verb": "gemaakt",
+        "infinitive": "maken"
+    },
+    {
+        "subject": "Jij",
+        "aux": "hebt",
+        "complement": "de experimenten",
+        "main_verb": "gedaan",
+        "infinitive": "doen"
+    },
+    {
+        "subject": "Hij",
+        "aux": "heeft",
+        "complement": "de gegevens",
+        "main_verb": "verzameld",
+        "infinitive": "verzamelen"
+    },
+    {
+        "subject": "Zij",
+        "aux": "heeft",
+        "complement": "de technologie",
+        "main_verb": "gebruikt",
+        "infinitive": "gebruiken"
+    },
+    {
+        "subject": "Wij",
+        "aux": "hebben",
+        "complement": "de resultaten",
+        "main_verb": "geanalyseerd",
+        "infinitive": "analyseren"
+    },
+    {
+        "subject": "Jullie",
+        "aux": "hebben",
+        "complement": "de informatie",
+        "main_verb": "gevonden",
+        "infinitive": "vinden"
+    },
+    {
+        "subject": "Zij",
+        "aux": "hebben",
+        "complement": "de problemen",
+        "main_verb": "opgelost",
+        "infinitive": "oplossen"
+    },
+    {
+        "subject": "Ik",
+        "aux": "heb",
+        "complement": "de software",
+        "main_verb": "geïnstalleerd",
+        "infinitive": "installeren"
+    },
+    {
+        "subject": "Jij",
+        "aux": "hebt",
+        "complement": "de resultaten",
+        "main_verb": "getoond",
+        "infinitive": "tonen"
+    },
+    {
+        "subject": "Hij",
+        "aux": "heeft",
+        "complement": "de theorie",
+        "main_verb": "begrepen",
+        "infinitive": "begrijpen"
+    },
+    {
+        "subject": "Zij",
+        "aux": "heeft",
+        "complement": "de machine",
+        "main_verb": "gerepareerd",
+        "infinitive": "repareren"
+    },
+    {
+        "subject": "Wij",
+        "aux": "hebben",
+        "complement": "de resultaten",
+        "main_verb": "gepubliceerd",
+        "infinitive": "publiceren"
+    },
+    {
+        "subject": "Jullie",
+        "aux": "hebben",
+        "complement": "de gegevens",
+        "main_verb": "gecontroleerd",
+        "infinitive": "controleren"
+    },
+    {
+        "subject": "Zij",
+        "aux": "hebben",
+        "complement": "de studie",
+        "main_verb": "gestart",
+        "infinitive": "starten"
+    },
+    {
+        "subject": "Ik",
+        "aux": "heb",
+        "complement": "de plannen",
+        "main_verb": "gemaakt",
+        "infinitive": "maken"
+    },
+    {
+        "subject": "Jij",
+        "aux": "hebt",
+        "complement": "de computer",
+        "main_verb": "aangeschaft",
+        "infinitive": "aanschaffen"
+    },
+    {
+        "subject": "Hij",
+        "aux": "heeft",
+        "complement": "de experimenten",
+        "main_verb": "uitgevoerd",
+        "infinitive": "uitvoeren"
+    },
+    {
+        "subject": "Zij",
+        "aux": "heeft",
+        "complement": "de resultaten",
+        "main_verb": "vergeleken",
+        "infinitive": "vergelijken"
+    },
+    {
+        "subject": "Wij",
+        "aux": "hebben",
+        "complement": "de gegevens",
+        "main_verb": "bewerkstelligd",
+        "infinitive": "bewerkstelligen"
+    },
+    {
+        "subject": "Jullie",
+        "aux": "hebben",
+        "complement": "de informatie",
+        "main_verb": "gevonden",
+        "infinitive": "vinden"
+    },
+    {
+        "subject": "Zij",
+        "aux": "hebben",
+        "complement": "de technologie",
+        "main_verb": "ontwikkeld",
+        "infinitive": "ontwikkelen"
+    },
+    {
+        "subject": "Ik",
+        "aux": "heb",
+        "complement": "de resultaten",
+        "main_verb": "geïntroduceerd",
+        "infinitive": "introduceren"
+    }
+]

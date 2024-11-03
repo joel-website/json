@@ -1,0 +1,212 @@
+[
+    {
+        "subject": "Ik",
+        "aux": "heb",
+        "complement": "een nieuwe jas",
+        "main_verb": "gekocht",
+        "infinitive": "kopen"
+    },
+    {
+        "subject": "Jij",
+        "aux": "hebt",
+        "complement": "mijn portemonnee",
+        "main_verb": "gevonden",
+        "infinitive": "vinden"
+    },
+    {
+        "subject": "Hij",
+        "aux": "heeft",
+        "complement": "zijn rekening",
+        "main_verb": "betaald",
+        "infinitive": "betalen"
+    },
+    {
+        "subject": "Zij",
+        "aux": "heeft",
+        "complement": "een korting",
+        "main_verb": "gekregen",
+        "infinitive": "krijgen"
+    },
+    {
+        "subject": "Wij",
+        "aux": "hebben",
+        "complement": "de prijzen",
+        "main_verb": "vergeleken",
+        "infinitive": "vergelijken"
+    },
+    {
+        "subject": "Jullie",
+        "aux": "hebben",
+        "complement": "contant geld",
+        "main_verb": "genomen",
+        "infinitive": "nemen"
+    },
+    {
+        "subject": "Zij",
+        "aux": "hebben",
+        "complement": "de bon",
+        "main_verb": "bewaard",
+        "infinitive": "bewaren"
+    },
+    {
+        "subject": "Ik",
+        "aux": "heb",
+        "complement": "voor de boodschappen",
+        "main_verb": "betaald",
+        "infinitive": "betalen"
+    },
+    {
+        "subject": "Jij",
+        "aux": "hebt",
+        "complement": "het geld",
+        "main_verb": "gespaard",
+        "infinitive": "sparen"
+    },
+    {
+        "subject": "Hij",
+        "aux": "heeft",
+        "complement": "zijn bankpas",
+        "main_verb": "verloren",
+        "infinitive": "verliezen"
+    },
+    {
+        "subject": "Zij",
+        "aux": "heeft",
+        "complement": "een cadeau",
+        "main_verb": "gekocht",
+        "infinitive": "kopen"
+    },
+    {
+        "subject": "Wij",
+        "aux": "hebben",
+        "complement": "een aanbieding",
+        "main_verb": "gevonden",
+        "infinitive": "vinden"
+    },
+    {
+        "subject": "Jullie",
+        "aux": "hebben",
+        "complement": "de rekening",
+        "main_verb": "betaald",
+        "infinitive": "betalen"
+    },
+    {
+        "subject": "Zij",
+        "aux": "hebben",
+        "complement": "een lening",
+        "main_verb": "afgesloten",
+        "infinitive": "afsluiten"
+    },
+    {
+        "subject": "Ik",
+        "aux": "heb",
+        "complement": "de prijs",
+        "main_verb": "onderhandeld",
+        "infinitive": "onderhandelen"
+    },
+    {
+        "subject": "Jij",
+        "aux": "hebt",
+        "complement": "een bon",
+        "main_verb": "geprint",
+        "infinitive": "printen"
+    },
+    {
+        "subject": "Hij",
+        "aux": "heeft",
+        "complement": "een lening",
+        "main_verb": "afgelost",
+        "infinitive": "aflossen"
+    },
+    {
+        "subject": "Zij",
+        "aux": "heeft",
+        "complement": "de kassa",
+        "main_verb": "gesloten",
+        "infinitive": "sluiten"
+    },
+    {
+        "subject": "Wij",
+        "aux": "hebben",
+        "complement": "alles in de winkel",
+        "main_verb": "gezien",
+        "infinitive": "zien"
+    },
+    {
+        "subject": "Jullie",
+        "aux": "hebben",
+        "complement": "alle aanbiedingen",
+        "main_verb": "bekeken",
+        "infinitive": "bekijken"
+    },
+    {
+        "subject": "Zij",
+        "aux": "hebben",
+        "complement": "een nieuwe tas",
+        "main_verb": "gekocht",
+        "infinitive": "kopen"
+    },
+    {
+        "subject": "Ik",
+        "aux": "heb",
+        "complement": "mijn salaris",
+        "main_verb": "ontvangen",
+        "infinitive": "ontvangen"
+    },
+    {
+        "subject": "Jij",
+        "aux": "hebt",
+        "complement": "een cadeau",
+        "main_verb": "ingepakt",
+        "infinitive": "inpakken"
+    },
+    {
+        "subject": "Hij",
+        "aux": "heeft",
+        "complement": "met korting",
+        "main_verb": "gekocht",
+        "infinitive": "kopen"
+    },
+    {
+        "subject": "Zij",
+        "aux": "heeft",
+        "complement": "een lening",
+        "main_verb": "afbetaald",
+        "infinitive": "afbetalen"
+    },
+    {
+        "subject": "Wij",
+        "aux": "hebben",
+        "complement": "geld",
+        "main_verb": "geleend",
+        "infinitive": "lenen"
+    },
+    {
+        "subject": "Jullie",
+        "aux": "hebben",
+        "complement": "iets leuks",
+        "main_verb": "gekocht",
+        "infinitive": "kopen"
+    },
+    {
+        "subject": "Zij",
+        "aux": "hebben",
+        "complement": "op de markt",
+        "main_verb": "gekocht",
+        "infinitive": "kopen"
+    },
+    {
+        "subject": "Ik",
+        "aux": "heb",
+        "complement": "met mijn creditcard",
+        "main_verb": "betaald",
+        "infinitive": "betalen"
+    },
+    {
+        "subject": "Jij",
+        "aux": "hebt",
+        "complement": "je uitgaven",
+        "main_verb": "gecontroleerd",
+        "infinitive": "controleren"
+    }
+]

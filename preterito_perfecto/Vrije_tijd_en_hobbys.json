@@ -1,0 +1,212 @@
+[
+    {
+        "subject": "Ik",
+        "aux": "heb",
+        "complement": "een boek",
+        "main_verb": "gelezen",
+        "infinitive": "lezen"
+    },
+    {
+        "subject": "Jij",
+        "aux": "hebt",
+        "complement": "een film",
+        "main_verb": "gekeken",
+        "infinitive": "kijken"
+    },
+    {
+        "subject": "Hij",
+        "aux": "heeft",
+        "complement": "een lied",
+        "main_verb": "gezongen",
+        "infinitive": "zingen"
+    },
+    {
+        "subject": "Zij",
+        "aux": "heeft",
+        "complement": "een puzzel",
+        "main_verb": "gemaakt",
+        "infinitive": "maken"
+    },
+    {
+        "subject": "Wij",
+        "aux": "hebben",
+        "complement": "in het park",
+        "main_verb": "gewandeld",
+        "infinitive": "wandelen"
+    },
+    {
+        "subject": "Jullie",
+        "aux": "hebben",
+        "complement": "een spelletje",
+        "main_verb": "gespeeld",
+        "infinitive": "spelen"
+    },
+    {
+        "subject": "Zij",
+        "aux": "hebben",
+        "complement": "een nieuwe hobby",
+        "main_verb": "gevonden",
+        "infinitive": "vinden"
+    },
+    {
+        "subject": "Ik",
+        "aux": "heb",
+        "complement": "een taart",
+        "main_verb": "gebakken",
+        "infinitive": "bakken"
+    },
+    {
+        "subject": "Jij",
+        "aux": "hebt",
+        "complement": "veel foto's",
+        "main_verb": "gemaakt",
+        "infinitive": "maken"
+    },
+    {
+        "subject": "Hij",
+        "aux": "heeft",
+        "complement": "in de tuin",
+        "main_verb": "gewerkt",
+        "infinitive": "werken"
+    },
+    {
+        "subject": "Zij",
+        "aux": "heeft",
+        "complement": "muziek",
+        "main_verb": "geluisterd",
+        "infinitive": "luisteren"
+    },
+    {
+        "subject": "Wij",
+        "aux": "hebben",
+        "complement": "een workshop",
+        "main_verb": "gevolgd",
+        "infinitive": "volgen"
+    },
+    {
+        "subject": "Jullie",
+        "aux": "hebben",
+        "complement": "een wandeling",
+        "main_verb": "gemaakt",
+        "infinitive": "maken"
+    },
+    {
+        "subject": "Zij",
+        "aux": "hebben",
+        "complement": "een museum",
+        "main_verb": "bezocht",
+        "infinitive": "bezoeken"
+    },
+    {
+        "subject": "Ik",
+        "aux": "heb",
+        "complement": "in de bergen",
+        "main_verb": "gewandeld",
+        "infinitive": "wandelen"
+    },
+    {
+        "subject": "Jij",
+        "aux": "hebt",
+        "complement": "kaarten",
+        "main_verb": "gespeeld",
+        "infinitive": "spelen"
+    },
+    {
+        "subject": "Hij",
+        "aux": "heeft",
+        "complement": "veel foto's",
+        "main_verb": "bewonderd",
+        "infinitive": "bewonderen"
+    },
+    {
+        "subject": "Zij",
+        "aux": "heeft",
+        "complement": "de zonsondergang",
+        "main_verb": "bekeken",
+        "infinitive": "bekijken"
+    },
+    {
+        "subject": "Wij",
+        "aux": "hebben",
+        "complement": "een fietstocht",
+        "main_verb": "gemaakt",
+        "infinitive": "maken"
+    },
+    {
+        "subject": "Jullie",
+        "aux": "hebben",
+        "complement": "een boek",
+        "main_verb": "gekocht",
+        "infinitive": "kopen"
+    },
+    {
+        "subject": "Zij",
+        "aux": "hebben",
+        "complement": "de stad",
+        "main_verb": "verkend",
+        "infinitive": "verkennen"
+    },
+    {
+        "subject": "Ik",
+        "aux": "heb",
+        "complement": "een filmavond",
+        "main_verb": "georganiseerd",
+        "infinitive": "organiseren"
+    },
+    {
+        "subject": "Jij",
+        "aux": "hebt",
+        "complement": "op het strand",
+        "main_verb": "gelegen",
+        "infinitive": "liggen"
+    },
+    {
+        "subject": "Hij",
+        "aux": "heeft",
+        "complement": "een concert",
+        "main_verb": "bezocht",
+        "infinitive": "bezoeken"
+    },
+    {
+        "subject": "Zij",
+        "aux": "heeft",
+        "complement": "een festival",
+        "main_verb": "gevierd",
+        "infinitive": "vieren"
+    },
+    {
+        "subject": "Wij",
+        "aux": "hebben",
+        "complement": "een barbecue",
+        "main_verb": "gehouden",
+        "infinitive": "houden"
+    },
+    {
+        "subject": "Jullie",
+        "aux": "hebben",
+        "complement": "een nieuwe hobby",
+        "main_verb": "ontdekt",
+        "infinitive": "ontdekken"
+    },
+    {
+        "subject": "Zij",
+        "aux": "hebben",
+        "complement": "een bordspel",
+        "main_verb": "gespeeld",
+        "infinitive": "spelen"
+    },
+    {
+        "subject": "Ik",
+        "aux": "heb",
+        "complement": "in het bos",
+        "main_verb": "gewandeld",
+        "infinitive": "wandelen"
+    },
+    {
+        "subject": "Jij",
+        "aux": "hebt",
+        "complement": "een vlog",
+        "main_verb": "gemaakt",
+        "infinitive": "maken"
+    }
+]

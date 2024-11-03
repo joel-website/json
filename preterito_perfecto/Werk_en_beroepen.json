@@ -1,0 +1,212 @@
+[
+    {
+        "subject": "Ik",
+        "aux": "heb",
+        "complement": "een sollicitatiegesprek",
+        "main_verb": "gehad",
+        "infinitive": "hebben"
+    },
+    {
+        "subject": "Jij",
+        "aux": "hebt",
+        "complement": "de nieuwe taken",
+        "main_verb": "geleerd",
+        "infinitive": "leren"
+    },
+    {
+        "subject": "Hij",
+        "aux": "heeft",
+        "complement": "de klant",
+        "main_verb": "geholpen",
+        "infinitive": "helpen"
+    },
+    {
+        "subject": "Zij",
+        "aux": "heeft",
+        "complement": "een rapport",
+        "main_verb": "geschreven",
+        "infinitive": "schrijven"
+    },
+    {
+        "subject": "Wij",
+        "aux": "hebben",
+        "complement": "een vergadering",
+        "main_verb": "gepland",
+        "infinitive": "plannen"
+    },
+    {
+        "subject": "Jullie",
+        "aux": "hebben",
+        "complement": "de nieuwe collega",
+        "main_verb": "geholpen",
+        "infinitive": "helpen"
+    },
+    {
+        "subject": "Zij",
+        "aux": "hebben",
+        "complement": "het project",
+        "main_verb": "afgerond",
+        "infinitive": "afronden"
+    },
+    {
+        "subject": "Ik",
+        "aux": "heb",
+        "complement": "de e-mails",
+        "main_verb": "verstuurd",
+        "infinitive": "versturen"
+    },
+    {
+        "subject": "Jij",
+        "aux": "hebt",
+        "complement": "het document",
+        "main_verb": "ondertekend",
+        "infinitive": "ondertekenen"
+    },
+    {
+        "subject": "Hij",
+        "aux": "heeft",
+        "complement": "de presentatie",
+        "main_verb": "gegeven",
+        "infinitive": "geven"
+    },
+    {
+        "subject": "Zij",
+        "aux": "heeft",
+        "complement": "nieuwe vaardigheden",
+        "main_verb": "geleerd",
+        "infinitive": "leren"
+    },
+    {
+        "subject": "Wij",
+        "aux": "hebben",
+        "complement": "een contract",
+        "main_verb": "getekend",
+        "infinitive": "tekenen"
+    },
+    {
+        "subject": "Jullie",
+        "aux": "hebben",
+        "complement": "de facturen",
+        "main_verb": "betaald",
+        "infinitive": "betalen"
+    },
+    {
+        "subject": "Zij",
+        "aux": "hebben",
+        "complement": "het bedrijf",
+        "main_verb": "overgenomen",
+        "infinitive": "overnemen"
+    },
+    {
+        "subject": "Ik",
+        "aux": "heb",
+        "complement": "mijn werkdag",
+        "main_verb": "afgesloten",
+        "infinitive": "afsluiten"
+    },
+    {
+        "subject": "Jij",
+        "aux": "hebt",
+        "complement": "de deadlines",
+        "main_verb": "gehaald",
+        "infinitive": "halen"
+    },
+    {
+        "subject": "Hij",
+        "aux": "heeft",
+        "complement": "een nieuwe baan",
+        "main_verb": "gevonden",
+        "infinitive": "vinden"
+    },
+    {
+        "subject": "Zij",
+        "aux": "heeft",
+        "complement": "haar werkplek",
+        "main_verb": "opgeruimd",
+        "infinitive": "opruimen"
+    },
+    {
+        "subject": "Wij",
+        "aux": "hebben",
+        "complement": "veel overuren",
+        "main_verb": "gemaakt",
+        "infinitive": "maken"
+    },
+    {
+        "subject": "Jullie",
+        "aux": "hebben",
+        "complement": "een projectplan",
+        "main_verb": "ontwikkeld",
+        "infinitive": "ontwikkelen"
+    },
+    {
+        "subject": "Zij",
+        "aux": "hebben",
+        "complement": "de vergaderruimte",
+        "main_verb": "geboekt",
+        "infinitive": "boeken"
+    },
+    {
+        "subject": "Ik",
+        "aux": "heb",
+        "complement": "mijn cv",
+        "main_verb": "geüpdatet",
+        "infinitive": "updaten"
+    },
+    {
+        "subject": "Jij",
+        "aux": "hebt",
+        "complement": "een nieuwe computer",
+        "main_verb": "besteld",
+        "infinitive": "bestellen"
+    },
+    {
+        "subject": "Hij",
+        "aux": "heeft",
+        "complement": "zijn taken",
+        "main_verb": "uitgevoerd",
+        "infinitive": "uitvoeren"
+    },
+    {
+        "subject": "Zij",
+        "aux": "heeft",
+        "complement": "de resultaten",
+        "main_verb": "geanalyseerd",
+        "infinitive": "analyseren"
+    },
+    {
+        "subject": "Wij",
+        "aux": "hebben",
+        "complement": "de klanten",
+        "main_verb": "gebeld",
+        "infinitive": "bellen"
+    },
+    {
+        "subject": "Jullie",
+        "aux": "hebben",
+        "complement": "een nieuwe strategie",
+        "main_verb": "bedacht",
+        "infinitive": "bedenken"
+    },
+    {
+        "subject": "Zij",
+        "aux": "hebben",
+        "complement": "de orders",
+        "main_verb": "bevestigd",
+        "infinitive": "bevestigen"
+    },
+    {
+        "subject": "Ik",
+        "aux": "heb",
+        "complement": "mijn team",
+        "main_verb": "gecoördineerd",
+        "infinitive": "coördineren"
+    },
+    {
+        "subject": "Jij",
+        "aux": "hebt",
+        "complement": "het budget",
+        "main_verb": "gecontroleerd",
+        "infinitive": "controleren"
+    }
+]

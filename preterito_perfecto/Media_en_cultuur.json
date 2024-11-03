@@ -1,0 +1,177 @@
+[
+    {
+        "subject": "Ik",
+        "aux": "heb",
+        "complement": "de nieuwste film",
+        "main_verb": "gekeken",
+        "infinitive": "kijken"
+    },
+    {
+        "subject": "Jij",
+        "aux": "hebt",
+        "complement": "een documentaire",
+        "main_verb": "gemaakt",
+        "infinitive": "maken"
+    },
+    {
+        "subject": "Hij",
+        "aux": "heeft",
+        "complement": "op televisie",
+        "main_verb": "gezien",
+        "infinitive": "zien"
+    },
+    {
+        "subject": "Zij",
+        "aux": "heeft",
+        "complement": "over kunst",
+        "main_verb": "geleerd",
+        "infinitive": "leren"
+    },
+    {
+        "subject": "Wij",
+        "aux": "hebben",
+        "complement": "de muziek",
+        "main_verb": "gehoord",
+        "infinitive": "horen"
+    },
+    {
+        "subject": "Jullie",
+        "aux": "hebben",
+        "complement": "een boek",
+        "main_verb": "gelezen",
+        "infinitive": "lezen"
+    },
+    {
+        "subject": "Zij",
+        "aux": "hebben",
+        "complement": "de theaterstukken",
+        "main_verb": "gezien",
+        "infinitive": "zien"
+    },
+    {
+        "subject": "Ik",
+        "aux": "heb",
+        "complement": "een muziekalbum",
+        "main_verb": "gekocht",
+        "infinitive": "kopen"
+    },
+    {
+        "subject": "Jij",
+        "aux": "hebt",
+        "complement": "de krant",
+        "main_verb": "gelezen",
+        "infinitive": "lezen"
+    },
+    {
+        "subject": "Hij",
+        "aux": "heeft",
+        "complement": "aan de workshop",
+        "main_verb": "deelnomen",
+        "infinitive": "deelnemen"
+    },
+    {
+        "subject": "Zij",
+        "aux": "heeft",
+        "complement": "een podcast",
+        "main_verb": "beluisterd",
+        "infinitive": "beluisteren"
+    },
+    {
+        "subject": "Wij",
+        "aux": "hebben",
+        "complement": "een filmfestival",
+        "main_verb": "bezocht",
+        "infinitive": "bezoeken"
+    },
+    {
+        "subject": "Jullie",
+        "aux": "hebben",
+        "complement": "over geschiedenis",
+        "main_verb": "geleerd",
+        "infinitive": "leren"
+    },
+    {
+        "subject": "Zij",
+        "aux": "hebben",
+        "complement": "de tentoonstellingen",
+        "main_verb": "geopend",
+        "infinitive": "openen"
+    },
+    {
+        "subject": "Ik",
+        "aux": "heb",
+        "complement": "de muziekvideo",
+        "main_verb": "gemaakt",
+        "infinitive": "maken"
+    },
+    {
+        "subject": "Jij",
+        "aux": "hebt",
+        "complement": "de website",
+        "main_verb": "ontworpen",
+        "infinitive": "ontwerpen"
+    },
+    {
+        "subject": "Hij",
+        "aux": "heeft",
+        "complement": "de dans",
+        "main_verb": "uitgevoerd",
+        "infinitive": "uitvoeren"
+    },
+    {
+        "subject": "Zij",
+        "aux": "heeft",
+        "complement": "de recensie",
+        "main_verb": "geschreven",
+        "infinitive": "schrijven"
+    },
+    {
+        "subject": "Wij",
+        "aux": "hebben",
+        "complement": "de cultuur",
+        "main_verb": "ontdekt",
+        "infinitive": "ontdekken"
+    },
+    {
+        "subject": "Jullie",
+        "aux": "hebben",
+        "complement": "de nieuwe trends",
+        "main_verb": "gevolgd",
+        "infinitive": "volgen"
+    },
+    {
+        "subject": "Zij",
+        "aux": "hebben",
+        "complement": "de workshops",
+        "main_verb": "georganiseerd",
+        "infinitive": "organiseren"
+    },
+    {
+        "subject": "Ik",
+        "aux": "heb",
+        "complement": "de verzameling",
+        "main_verb": "uitgebreid",
+        "infinitive": "uitbreiden"
+    },
+    {
+        "subject": "Jij",
+        "aux": "hebt",
+        "complement": "de cultuur",
+        "main_verb": "verkenning",
+        "infinitive": "verkennen"
+    },
+    {
+        "subject": "Hij",
+        "aux": "heeft",
+        "complement": "de film",
+        "main_verb": "gereviewed",
+        "infinitive": "reviewen"
+    },
+    {
+        "subject": "Zij",
+        "aux": "heeft",
+        "complement": "de tradities",
+        "main_verb": "onderzocht",
+        "infinitive": "onderzoeken"
+    }
+]

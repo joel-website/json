@@ -1,0 +1,212 @@
+[
+    {
+        "subject": "Ik",
+        "aux": "heb",
+        "complement": "een pizza",
+        "main_verb": "gebakken",
+        "infinitive": "bakken"
+    },
+    {
+        "subject": "Jij",
+        "aux": "hebt",
+        "complement": "de soep",
+        "main_verb": "geproefd",
+        "infinitive": "proeven"
+    },
+    {
+        "subject": "Hij",
+        "aux": "heeft",
+        "complement": "een kop koffie",
+        "main_verb": "gedronken",
+        "infinitive": "drinken"
+    },
+    {
+        "subject": "Zij",
+        "aux": "heeft",
+        "complement": "een salade",
+        "main_verb": "gemaakt",
+        "infinitive": "maken"
+    },
+    {
+        "subject": "Wij",
+        "aux": "hebben",
+        "complement": "het ontbijt",
+        "main_verb": "voorbereid",
+        "infinitive": "voorbereiden"
+    },
+    {
+        "subject": "Jullie",
+        "aux": "hebben",
+        "complement": "de taart",
+        "main_verb": "gesneden",
+        "infinitive": "snijden"
+    },
+    {
+        "subject": "Zij",
+        "aux": "hebben",
+        "complement": "een wijntje",
+        "main_verb": "geproefd",
+        "infinitive": "proeven"
+    },
+    {
+        "subject": "Ik",
+        "aux": "heb",
+        "complement": "het avondeten",
+        "main_verb": "gekookt",
+        "infinitive": "koken"
+    },
+    {
+        "subject": "Jij",
+        "aux": "hebt",
+        "complement": "het brood",
+        "main_verb": "gebakken",
+        "infinitive": "bakken"
+    },
+    {
+        "subject": "Hij",
+        "aux": "heeft",
+        "complement": "de groenten",
+        "main_verb": "gewassen",
+        "infinitive": "wassen"
+    },
+    {
+        "subject": "Zij",
+        "aux": "heeft",
+        "complement": "het sap",
+        "main_verb": "gemaakt",
+        "infinitive": "maken"
+    },
+    {
+        "subject": "Wij",
+        "aux": "hebben",
+        "complement": "de pizza",
+        "main_verb": "besteld",
+        "infinitive": "bestellen"
+    },
+    {
+        "subject": "Jullie",
+        "aux": "hebben",
+        "complement": "het dessert",
+        "main_verb": "klaargemaakt",
+        "infinitive": "klaarmaken"
+    },
+    {
+        "subject": "Zij",
+        "aux": "hebben",
+        "complement": "de ingrediënten",
+        "main_verb": "gekocht",
+        "infinitive": "kopen"
+    },
+    {
+        "subject": "Ik",
+        "aux": "heb",
+        "complement": "een smoothie",
+        "main_verb": "gedronken",
+        "infinitive": "drinken"
+    },
+    {
+        "subject": "Jij",
+        "aux": "hebt",
+        "complement": "het vlees",
+        "main_verb": "gegrild",
+        "infinitive": "grillen"
+    },
+    {
+        "subject": "Hij",
+        "aux": "heeft",
+        "complement": "de saus",
+        "main_verb": "gemaakt",
+        "infinitive": "maken"
+    },
+    {
+        "subject": "Zij",
+        "aux": "heeft",
+        "complement": "een glas wijn",
+        "main_verb": "gedronken",
+        "infinitive": "drinken"
+    },
+    {
+        "subject": "Wij",
+        "aux": "hebben",
+        "complement": "de lunch",
+        "main_verb": "gegeten",
+        "infinitive": "eten"
+    },
+    {
+        "subject": "Jullie",
+        "aux": "hebben",
+        "complement": "een soep",
+        "main_verb": "gekookt",
+        "infinitive": "koken"
+    },
+    {
+        "subject": "Zij",
+        "aux": "hebben",
+        "complement": "een taart",
+        "main_verb": "gebakken",
+        "infinitive": "bakken"
+    },
+    {
+        "subject": "Ik",
+        "aux": "heb",
+        "complement": "de pasta",
+        "main_verb": "gegeten",
+        "infinitive": "eten"
+    },
+    {
+        "subject": "Jij",
+        "aux": "hebt",
+        "complement": "de groentesoep",
+        "main_verb": "geproefd",
+        "infinitive": "proeven"
+    },
+    {
+        "subject": "Hij",
+        "aux": "heeft",
+        "complement": "het diner",
+        "main_verb": "voorbereid",
+        "infinitive": "voorbereiden"
+    },
+    {
+        "subject": "Zij",
+        "aux": "heeft",
+        "complement": "een nieuwe salade",
+        "main_verb": "gemaakt",
+        "infinitive": "maken"
+    },
+    {
+        "subject": "Wij",
+        "aux": "hebben",
+        "complement": "fruitsap",
+        "main_verb": "gedronken",
+        "infinitive": "drinken"
+    },
+    {
+        "subject": "Jullie",
+        "aux": "hebben",
+        "complement": "een brood",
+        "main_verb": "gebakken",
+        "infinitive": "bakken"
+    },
+    {
+        "subject": "Zij",
+        "aux": "hebben",
+        "complement": "de groenten",
+        "main_verb": "gesneden",
+        "infinitive": "snijden"
+    },
+    {
+        "subject": "Ik",
+        "aux": "heb",
+        "complement": "het avondeten",
+        "main_verb": "gegeten",
+        "infinitive": "eten"
+    },
+    {
+        "subject": "Jij",
+        "aux": "hebt",
+        "complement": "de wijn",
+        "main_verb": "geproefd",
+        "infinitive": "proeven"
+    }
+]
