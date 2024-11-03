@@ -1,0 +1,254 @@
+[
+    {
+        "subject": "Ik",
+        "aux": "heb",
+        "complement": "de ochtend vroeg wakker",
+        "main_verb": "gemaakt",
+        "infinitive": "maken"
+    },
+    {
+        "subject": "Jij",
+        "aux": "hebt",
+        "complement": "de hele week",
+        "main_verb": "gewerkt",
+        "infinitive": "werken"
+    },
+    {
+        "subject": "Hij",
+        "aux": "heeft",
+        "complement": "de bus naar school",
+        "main_verb": "genomen",
+        "infinitive": "nemen"
+    },
+    {
+        "subject": "Zij",
+        "aux": "heeft",
+        "complement": "een gezond ontbijt",
+        "main_verb": "gegeten",
+        "infinitive": "eten"
+    },
+    {
+        "subject": "Wij",
+        "aux": "hebben",
+        "complement": "de kinderen naar de speeltuin",
+        "main_verb": "gebracht",
+        "infinitive": "brengen"
+    },
+    {
+        "subject": "Jullie",
+        "aux": "hebben",
+        "complement": "met de fiets",
+        "main_verb": "gereden",
+        "infinitive": "rijden"
+    },
+    {
+        "subject": "Zij",
+        "aux": "heeft",
+        "complement": "de afwas",
+        "main_verb": "gedaan",
+        "infinitive": "doen"
+    },
+    {
+        "subject": "Ik",
+        "aux": "heb",
+        "complement": "de hele dag",
+        "main_verb": "gestudeerd",
+        "infinitive": "studeren"
+    },
+    {
+        "subject": "Hij",
+        "aux": "heeft",
+        "complement": "de boodschappen",
+        "main_verb": "gekocht",
+        "infinitive": "kopen"
+    },
+    {
+        "subject": "Wij",
+        "aux": "hebben",
+        "complement": "veel op het feest",
+        "main_verb": "gedronken",
+        "infinitive": "drinken"
+    },
+    {
+        "subject": "Zij",
+        "aux": "heeft",
+        "complement": "naar muziek",
+        "main_verb": "geluisterd",
+        "infinitive": "luisteren"
+    },
+    {
+        "subject": "Ik",
+        "aux": "heb",
+        "complement": "met vrienden",
+        "main_verb": "gepraat",
+        "infinitive": "praten"
+    },
+    {
+        "subject": "Jij",
+        "aux": "hebt",
+        "complement": "de film",
+        "main_verb": "gezien",
+        "infinitive": "zien"
+    },
+    {
+        "subject": "Hij",
+        "aux": "heeft",
+        "complement": "in de tuin",
+        "main_verb": "gewerkt",
+        "infinitive": "werken"
+    },
+    {
+        "subject": "Zij",
+        "aux": "heeft",
+        "complement": "gezellig met het gezin",
+        "main_verb": "gegeten",
+        "infinitive": "eten"
+    },
+    {
+        "subject": "Wij",
+        "aux": "hebben",
+        "complement": "gezamenlijk een spel",
+        "main_verb": "gespeeld",
+        "infinitive": "spelen"
+    },
+    {
+        "subject": "Jullie",
+        "aux": "hebben",
+        "complement": "een kaartje voor de wedstrijd",
+        "main_verb": "gekocht",
+        "infinitive": "kopen"
+    },
+    {
+        "subject": "Zij",
+        "aux": "heeft",
+        "complement": "de hond",
+        "main_verb": "uitgelaten",
+        "infinitive": "uitlaten"
+    },
+    {
+        "subject": "Ik",
+        "aux": "heb",
+        "complement": "met de auto",
+        "main_verb": "gereisd",
+        "infinitive": "reizen"
+    },
+    {
+        "subject": "Jij",
+        "aux": "hebt",
+        "complement": "de vergadering",
+        "main_verb": "voorbereid",
+        "infinitive": "voorbereiden"
+    },
+    {
+        "subject": "Wij",
+        "aux": "hebben",
+        "complement": "een nieuw recept",
+        "main_verb": "geprobeerd",
+        "infinitive": "proberen"
+    },
+    {
+        "subject": "Zij",
+        "aux": "heeft",
+        "complement": "de kamer",
+        "main_verb": "opgeruimd",
+        "infinitive": "opruimen"
+    },
+    {
+        "subject": "Hij",
+        "aux": "heeft",
+        "complement": "de lichtjes in de boom",
+        "main_verb": "gehangen",
+        "infinitive": "hangen"
+    },
+    {
+        "subject": "Ik",
+        "aux": "heb",
+        "complement": "het huis",
+        "main_verb": "schoongemaakt",
+        "infinitive": "schoonmaken"
+    },
+    {
+        "subject": "Jij",
+        "aux": "hebt",
+        "complement": "een kop koffie",
+        "main_verb": "gedronken",
+        "infinitive": "drinken"
+    },
+    {
+        "subject": "Hij",
+        "aux": "heeft",
+        "complement": "een lang verhaal",
+        "main_verb": "verteld",
+        "infinitive": "vertellen"
+    },
+    {
+        "subject": "Wij",
+        "aux": "hebben",
+        "complement": "de kinderen naar bed",
+        "main_verb": "gebracht",
+        "infinitive": "brengen"
+    },
+    {
+        "subject": "Zij",
+        "aux": "heeft",
+        "complement": "de auto",
+        "main_verb": "gewassen",
+        "infinitive": "wassen"
+    },
+    {
+        "subject": "Ik",
+        "aux": "heb",
+        "complement": "de bloemen in de tuin",
+        "main_verb": "geplant",
+        "infinitive": "planten"
+    },
+    {
+        "subject": "Jij",
+        "aux": "hebt",
+        "complement": "een cadeau voor de verjaardag",
+        "main_verb": "gekocht",
+        "infinitive": "kopen"
+    },
+    {
+        "subject": "Hij",
+        "aux": "heeft",
+        "complement": "de kat",
+        "main_verb": "binnen gelaten",
+        "infinitive": "laten"
+    },
+    {
+        "subject": "Zij",
+        "aux": "heeft",
+        "complement": "de vrienden",
+        "main_verb": "uitgenodigd",
+        "infinitive": "uitnodigen"
+    },
+    {
+        "subject": "Wij",
+        "aux": "hebben",
+        "complement": "gezellig samen",
+        "main_verb": "gelachen",
+        "infinitive": "lachen"
+    },
+    {
+        "subject": "Jullie",
+        "aux": "hebben",
+        "complement": "de krant",
+        "main_verb": "gelezen",
+        "infinitive": "lezen"
+    },
+    {
+        "subject": "Zij",
+        "aux": "heeft",
+        "complement": "een lekkere maaltijd",
+        "main_verb": "gekookt",
+        "infinitive": "koken"
+    },
+    {
+        "subject": "Ik",
+        "aux": "heb",
+        "complement": "een goed boek",
+        "main_verb": "gelezen",
+        "infinitive": "lezen"
+    }
+]

@@ -1,0 +1,261 @@
+[
+    {
+        "subject": "Ik",
+        "aux": "heb",
+        "complement": "een groot gezin thuis",
+        "main_verb": "gehad",
+        "infinitive": "hebben"
+    },
+    {
+        "subject": "Jij",
+        "aux": "hebt",
+        "complement": "veel vrienden op school",
+        "main_verb": "gemaakt",
+        "infinitive": "maken"
+    },
+    {
+        "subject": "Hij",
+        "aux": "heeft",
+        "complement": "zijn zus met plezier",
+        "main_verb": "geholpen",
+        "infinitive": "helpen"
+    },
+    {
+        "subject": "Zij",
+        "aux": "heeft",
+        "complement": "een feestje voor haar",
+        "main_verb": "georganiseerd",
+        "infinitive": "organiseren"
+    },
+    {
+        "subject": "Wij",
+        "aux": "hebben",
+        "complement": "de kinderen bij ons",
+        "main_verb": "ontvangen",
+        "infinitive": "ontvangen"
+    },
+    {
+        "subject": "Jullie",
+        "aux": "hebben",
+        "complement": "een mooie band met",
+        "main_verb": "gebouwd",
+        "infinitive": "bouwen"
+    },
+    {
+        "subject": "Zij",
+        "aux": "heeft",
+        "complement": "de uitnodigingen verstuurd naar",
+        "main_verb": "gestuurd",
+        "infinitive": "sturen"
+    },
+    {
+        "subject": "Ik",
+        "aux": "heb",
+        "complement": "met mijn vrienden afgesproken",
+        "main_verb": "gehad",
+        "infinitive": "hebben"
+    },
+    {
+        "subject": "Hij",
+        "aux": "heeft",
+        "complement": "met zijn neef gesport",
+        "main_verb": "gedaan",
+        "infinitive": "doen"
+    },
+    {
+        "subject": "Wij",
+        "aux": "hebben",
+        "complement": "samen gekookt voor ons",
+        "main_verb": "gemaakt",
+        "infinitive": "maken"
+    },
+    {
+        "subject": "Zij",
+        "aux": "heeft",
+        "complement": "haar moeder gebeld om",
+        "main_verb": "vragen",
+        "infinitive": "vragen"
+    },
+    {
+        "subject": "Jij",
+        "aux": "hebt",
+        "complement": "haar geholpen met het",
+        "main_verb": "studeren",
+        "infinitive": "studeren"
+    },
+    {
+        "subject": "Hij",
+        "aux": "heeft",
+        "complement": "de foto’s van het",
+        "main_verb": "genomen",
+        "infinitive": "nemen"
+    },
+    {
+        "subject": "Wij",
+        "aux": "hebben",
+        "complement": "de verhalen van opa",
+        "main_verb": "geluisterd",
+        "infinitive": "luisteren"
+    },
+    {
+        "subject": "Zij",
+        "aux": "heeft",
+        "complement": "met vrienden gegeten in",
+        "main_verb": "gegeten",
+        "infinitive": "eten"
+    },
+    {
+        "subject": "Ik",
+        "aux": "heb",
+        "complement": "de verjaardag van mijn",
+        "main_verb": "gevierd",
+        "infinitive": "vieren"
+    },
+    {
+        "subject": "Jij",
+        "aux": "hebt",
+        "complement": "de uitnodiging ontvangen van",
+        "main_verb": "gekregen",
+        "infinitive": "krijgen"
+    },
+    {
+        "subject": "Hij",
+        "aux": "heeft",
+        "complement": "zijn vrienden meegenomen naar",
+        "main_verb": "gebracht",
+        "infinitive": "brengen"
+    },
+    {
+        "subject": "Zij",
+        "aux": "heeft",
+        "complement": "met haar broer gepraat",
+        "main_verb": "gehad",
+        "infinitive": "hebben"
+    },
+    {
+        "subject": "Wij",
+        "aux": "hebben",
+        "complement": "gezamenlijk naar de film",
+        "main_verb": "geweest",
+        "infinitive": "zijn"
+    },
+    {
+        "subject": "Ik",
+        "aux": "heb",
+        "complement": "met mijn ouders gesproken",
+        "main_verb": "gehad",
+        "infinitive": "hebben"
+    },
+    {
+        "subject": "Jij",
+        "aux": "hebt",
+        "complement": "met je vrienden gezwommen",
+        "main_verb": "gedaan",
+        "infinitive": "doen"
+    },
+    {
+        "subject": "Hij",
+        "aux": "heeft",
+        "complement": "een cadeau voor zijn",
+        "main_verb": "gekocht",
+        "infinitive": "kopen"
+    },
+    {
+        "subject": "Zij",
+        "aux": "heeft",
+        "complement": "haar vriendin geholpen met",
+        "main_verb": "studeren",
+        "infinitive": "studeren"
+    },
+    {
+        "subject": "Wij",
+        "aux": "hebben",
+        "complement": "samen de tuin verzorgd",
+        "main_verb": "gemaakt",
+        "infinitive": "maken"
+    },
+    {
+        "subject": "Jullie",
+        "aux": "hebben",
+        "complement": "een foto genomen van",
+        "main_verb": "gemaakt",
+        "infinitive": "maken"
+    },
+    {
+        "subject": "Ik",
+        "aux": "heb",
+        "complement": "de kinderen leren fietsen",
+        "main_verb": "gehad",
+        "infinitive": "hebben"
+    },
+    {
+        "subject": "Hij",
+        "aux": "heeft",
+        "complement": "een spelletje met zijn",
+        "main_verb": "gespeeld",
+        "infinitive": "spelen"
+    },
+    {
+        "subject": "Zij",
+        "aux": "heeft",
+        "complement": "haar vader gebeld om",
+        "main_verb": "vragen",
+        "infinitive": "vragen"
+    },
+    {
+        "subject": "Wij",
+        "aux": "hebben",
+        "complement": "de familie bezocht in",
+        "main_verb": "geweest",
+        "infinitive": "zijn"
+    },
+    {
+        "subject": "Jij",
+        "aux": "hebt",
+        "complement": "het boek van je",
+        "main_verb": "gelezen",
+        "infinitive": "lezen"
+    },
+    {
+        "subject": "Hij",
+        "aux": "heeft",
+        "complement": "zijn spullen georganiseerd voor",
+        "main_verb": "gehad",
+        "infinitive": "hebben"
+    },
+    {
+        "subject": "Zij",
+        "aux": "heeft",
+        "complement": "met de kinderen geluncht in",
+        "main_verb": "gehad",
+        "infinitive": "hebben"
+    },
+    {
+        "subject": "Wij",
+        "aux": "hebben",
+        "complement": "met de buren gechat over",
+        "main_verb": "gehad",
+        "infinitive": "hebben"
+    },
+    {
+        "subject": "Jij",
+        "aux": "hebt",
+        "complement": "de geschiedenis van je",
+        "main_verb": "begrepen",
+        "infinitive": "begrijpen"
+    },
+    {
+        "subject": "Hij",
+        "aux": "heeft",
+        "complement": "zijn vriendin verrast met",
+        "main_verb": "gehad",
+        "infinitive": "hebben"
+    },
+    {
+        "subject": "Zij",
+        "aux": "heeft",
+        "complement": "een nieuw huis gekocht voor",
+        "main_verb": "gehad",
+        "infinitive": "hebben"
+    }
+]
