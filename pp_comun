@@ -1,0 +1,142 @@
+[
+    {
+        "sentence": "Ik heb het geld",
+        "verb": "betaald",
+        "infinitive": "betalen"
+    },
+    {
+        "sentence": "Jij hebt een fiets",
+        "verb": "gekocht",
+        "infinitive": "kopen"
+    },
+    {
+        "sentence": "Hij heeft de auto",
+        "verb": "verkocht",
+        "infinitive": "verkopen"
+    },
+    {
+        "sentence": "Wij hebben de pizza",
+        "verb": "besteld",
+        "infinitive": "bestellen"
+    },
+    {
+        "sentence": "Zij heeft de boeken",
+        "verb": "gehaald",
+        "infinitive": "halen"
+    },
+    {
+        "sentence": "Jullie hebben de documenten",
+        "verb": "gebracht",
+        "infinitive": "brengen"
+    },
+    {
+        "sentence": "Ik heb de tas",
+        "verb": "genomen",
+        "infinitive": "nemen"
+    },
+    {
+        "sentence": "Hij heeft de sleutel",
+        "verb": "gegeven",
+        "infinitive": "geven"
+    },
+    {
+        "sentence": "Wij hebben een cadeau",
+        "verb": "gekregen",
+        "infinitive": "krijgen"
+    },
+    {
+        "sentence": "Zij heeft een vraag",
+        "verb": "gevraagd",
+        "infinitive": "vragen"
+    },
+    {
+        "sentence": "Jij hebt mijn vraag",
+        "verb": "beantwoord",
+        "infinitive": "antwoorden"
+    },
+    {
+        "sentence": "Ik heb een verhaal",
+        "verb": "verteld",
+        "infinitive": "vertellen"
+    },
+    {
+        "sentence": "Hij heeft alles",
+        "verb": "begrepen",
+        "infinitive": "begrijpen"
+    },
+    {
+        "sentence": "Wij hebben op de bus",
+        "verb": "gewacht",
+        "infinitive": "wachten"
+    },
+    {
+        "sentence": "Zij heeft de rekening",
+        "verb": "betaald",
+        "infinitive": "betalen"
+    },
+    {
+        "sentence": "Jullie hebben een nieuwe telefoon",
+        "verb": "gekocht",
+        "infinitive": "kopen"
+    },
+    {
+        "sentence": "Ik heb de spullen",
+        "verb": "verkocht",
+        "infinitive": "verkopen"
+    },
+    {
+        "sentence": "Hij heeft een maaltijd",
+        "verb": "besteld",
+        "infinitive": "bestellen"
+    },
+    {
+        "sentence": "Wij hebben het pakket",
+        "verb": "gehaald",
+        "infinitive": "halen"
+    },
+    {
+        "sentence": "Zij heeft haar tas",
+        "verb": "gebracht",
+        "infinitive": "brengen"
+    },
+    {
+        "sentence": "Jij hebt een foto",
+        "verb": "genomen",
+        "infinitive": "nemen"
+    },
+    {
+        "sentence": "Ik heb een cadeau",
+        "verb": "gegeven",
+        "infinitive": "geven"
+    },
+    {
+        "sentence": "Hij heeft veel geluk",
+        "verb": "gekregen",
+        "infinitive": "krijgen"
+    },
+    {
+        "sentence": "Wij hebben het antwoord",
+        "verb": "gevraagd",
+        "infinitive": "vragen"
+    },
+    {
+        "sentence": "Zij heeft haar gedachten",
+        "verb": "beantwoord",
+        "infinitive": "antwoorden"
+    },
+    {
+        "sentence": "Jullie hebben het verhaal",
+        "verb": "verteld",
+        "infinitive": "vertellen"
+    },
+    {
+        "sentence": "Ik heb de situatie",
+        "verb": "begrepen",
+        "infinitive": "begrijpen"
+    },
+    {
+        "sentence": "Hij heeft op zijn trein",
+        "verb": "gewacht",
+        "infinitive": "wachten"
+    }
+]
