@@ -6,5 +6,9 @@
     {
         "name": "Cotidiano",
         "url": "https://joel-website.github.io/json/pp_cotidiano.json"
+    },
+    {
+        "name": "Rutina",
+        "url": "https://joel-website.github.io/json/pp_rutina.json"
     }
 ]
