@@ -1,156 +1,128 @@
 [
     {
         "subject": "Ik",
-        "aux": "heb",
-        "complement": "een gevoel",
-        "main_verb": "gehad",
-        "infinitive": "hebben"
+        "aux": "ben",
+        "complement": "gelukkig",
+        "main_verb": "geweest",
+        "infinitive": "zijn"
     },
     {
         "subject": "Jij",
         "aux": "hebt",
-        "complement": "de situatie",
-        "main_verb": "begrepen",
-        "infinitive": "begrijpen"
+        "complement": "hard gewerkt",
+        "main_verb": "gedaan",
+        "infinitive": "doen"
     },
     {
         "subject": "Hij",
         "aux": "heeft",
-        "complement": "de emoties",
+        "complement": "huilend",
+        "main_verb": "geweest",
+        "infinitive": "zijn"
+    },
+    {
+        "subject": "Wij",
+        "aux": "hebben",
+        "complement": "veel gelachen",
+        "main_verb": "gedaan",
+        "infinitive": "doen"
+    },
+    {
+        "subject": "Jullie",
+        "aux": "hebben",
+        "complement": "veel pijn gevoeld",
         "main_verb": "gevoeld",
         "infinitive": "voelen"
     },
     {
         "subject": "Zij",
-        "aux": "heeft",
-        "complement": "de reactie",
-        "main_verb": "gezien",
-        "infinitive": "zien"
-    },
-    {
-        "subject": "Wij",
         "aux": "hebben",
-        "complement": "de verandering",
-        "main_verb": "opgemerkt",
-        "infinitive": "opmerken"
-    },
-    {
-        "subject": "Jullie",
-        "aux": "hebben",
-        "complement": "de houding",
-        "main_verb": "veranderd",
-        "infinitive": "veranderen"
-    },
-    {
-        "subject": "Zij",
-        "aux": "hebben",
-        "complement": "de gevoelens",
-        "main_verb": "gedeeld",
-        "infinitive": "delen"
+        "complement": "een oplossing gevonden",
+        "main_verb": "gevonden",
+        "infinitive": "vinden"
     },
     {
         "subject": "Ik",
         "aux": "heb",
-        "complement": "een ervaring",
-        "main_verb": "gehad",
-        "infinitive": "hebben"
+        "complement": "angst",
+        "main_verb": "gevoeld",
+        "infinitive": "voelen"
     },
     {
         "subject": "Jij",
         "aux": "hebt",
-        "complement": "de gebeurtenis",
-        "main_verb": "beleefd",
-        "infinitive": "beleven"
-    },
-    {
-        "subject": "Hij",
-        "aux": "heeft",
-        "complement": "de stress",
-        "main_verb": "ervaren",
-        "infinitive": "ervaren"
-    },
-    {
-        "subject": "Zij",
-        "aux": "heeft",
-        "complement": "de situatie",
-        "main_verb": "veranderd",
-        "infinitive": "veranderen"
-    },
-    {
-        "subject": "Wij",
-        "aux": "hebben",
-        "complement": "de problemen",
+        "complement": "een moeilijke situatie opgelost",
         "main_verb": "opgelost",
         "infinitive": "oplossen"
     },
     {
+        "subject": "Hij",
+        "aux": "heeft",
+        "complement": "een goede indruk gemaakt",
+        "main_verb": "gemaakt",
+        "infinitive": "maken"
+    },
+    {
+        "subject": "Wij",
+        "aux": "zijn",
+        "complement": "verward",
+        "main_verb": "geweest",
+        "infinitive": "zijn"
+    },
+    {
         "subject": "Jullie",
         "aux": "hebben",
-        "complement": "de twijfels",
-        "main_verb": "geuit",
-        "infinitive": "uiten"
+        "complement": "opgelucht adem gehaald",
+        "main_verb": "gehaald",
+        "infinitive": "halen"
     },
     {
         "subject": "Zij",
         "aux": "hebben",
-        "complement": "de zorgen",
-        "main_verb": "gehad",
-        "infinitive": "hebben"
+        "complement": "hun emoties onder controle",
+        "main_verb": "gehouden",
+        "infinitive": "houden"
     },
     {
         "subject": "Ik",
         "aux": "heb",
-        "complement": "de gevoelens",
-        "main_verb": "herkend",
-        "infinitive": "herkennen"
+        "complement": "gehoopt",
+        "main_verb": "gehoopt",
+        "infinitive": "hopen"
     },
     {
         "subject": "Jij",
         "aux": "hebt",
-        "complement": "de angst",
-        "main_verb": "voorgevoeld",
-        "infinitive": "voorgevoelen"
+        "complement": "met je vrienden gepraat",
+        "main_verb": "gepraat",
+        "infinitive": "spreken"
     },
     {
         "subject": "Hij",
         "aux": "heeft",
-        "complement": "de vreugde",
-        "main_verb": "gevoeld",
-        "infinitive": "voelen"
-    },
-    {
-        "subject": "Zij",
-        "aux": "heeft",
-        "complement": "de steun",
-        "main_verb": "gegeven",
-        "infinitive": "geven"
+        "complement": "zijn gevoelens gedeeld",
+        "main_verb": "gedeeld",
+        "infinitive": "delen"
     },
     {
         "subject": "Wij",
         "aux": "hebben",
-        "complement": "de blijdschap",
-        "main_verb": "ervaren",
-        "infinitive": "ervaren"
+        "complement": "een moeilijke beslissing genomen",
+        "main_verb": "genomen",
+        "infinitive": "nemen"
     },
     {
         "subject": "Jullie",
         "aux": "hebben",
-        "complement": "de frustratie",
-        "main_verb": "gevoeld",
-        "infinitive": "voelen"
+        "complement": "jezelf goed verzorgd",
+        "main_verb": "verzorgd",
+        "infinitive": "verzorgen"
     },
     {
         "subject": "Zij",
         "aux": "hebben",
-        "complement": "de liefde",
-        "main_verb": "gekend",
-        "infinitive": "kennen"
-    },
-    {
-        "subject": "Ik",
-        "aux": "heb",
-        "complement": "de gedachten",
-        "main_verb": "geuit",
-        "infinitive": "uiten"
+        "complement": "vrienden geholpen",
+        "main_verb": "geholpen",
+        "infinitive": "helpen"
     }
 ]
